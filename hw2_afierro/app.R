@@ -24,23 +24,32 @@ ui <- navbarPage("Pittsburgh Arrests",
                               # Neighborhood select
                               selectInput("NeighborhoodSelect",
                                           "Neighborhood:",
-                                          choices = sort(unique(hw2dat$Neighborhood),
+                                          choices = sort(unique(arrests.load$Neighborhood),
                                                          multiple = TRUE,
                                                          selectize = TRUE,
-                                                         selected = "Central Business District",
+                                                         selected = "Central Business District"),
+                              # Race select
+                              selectInput("RaceSelect",
+                                          "Race:",
+                                          choices = sort(unique(arrests.load$Race),
+                                          multiple = TRUE,
+                                          selectize = TRUE,
+                                          selected = "White"),
                               # Age Selection
                               sliderInput("ageSelect",
                                           "Age:",
-                                              min = min(hw2dat$Age, na.rm = T),
-                                              max = max(hw2dat$Age, na.rm = T),
-                                              value = c(min(hw2dat$Age, na.rm = T), max(hw2dat$Age, na.rm = T)),
+                                              min = min(arrests.load$Age, na.rm = T),
+                                              max = max(arrests.load$Age, na.rm = T),
+                                              value = c(min(arrests.load$Age, na.rm = T), max(arrests.load$Age, na.rm = T)),
                                               step = 1),
                               actionButton("reset", "Reset Filters", icon = icon("refresh"))
                                           ),
                               # Output plots
                               mainPanel(
                                 plotlyOutput("Neighborhoodsplot"),
+                                plotlyOutput("Raceplot"),
                                 plotlyOutput("Ageplot")
+                               
                                           )
                               )
                             ),
@@ -50,8 +59,8 @@ tabPanel("Table",
       downloadButton("downloadData","Download Pittsburgh Arrests Data")
                                      ),
     fluidPage(DT::dataTableOutput("table"))
-  )
-)))
+))))
+
 # Define server logic
 server <- function(input, output, session = session) {
 # Filtered Starwars data
@@ -77,6 +86,12 @@ output$Neighborhoodsplot <- renderPlotly({
           ggplotly(
       ggplot(data = dat, aes(x = Neighborhood)) +                                                                                                   "<br>Height: ", height))) + 
       geom_bar()
+})
+# Race Plot
+output$Raceplot <- renderPlotly({
+  dat <- PInput()
+  ggplot(data = dat.race, aes(x = Race2, fill = Arrest1)) + 
+    geom_bar()
 })
 # Age Plot
 output$plot <- renderPlotly({
@@ -105,10 +120,10 @@ output$table <- DT::renderDataTable({
       content = function(file) {
       write.csv(swInput(), file)
 }
-  )
+  ) 
 # Reset Filter Data
 observeEvent(input$reset, {
-      updateSelectInput(session, "NeighborhoodsSelect", selected = ("Central Business District")
+      updateSelectInput(session, "NeighborhoodsSelect", selected = "Central Business District")
       updateSliderInput(session, "AgeSelect", value = c(min(hw2dat$Age, na.rm = T), max(hw2dat$Age, na.rm = T)))
       showNotification("You have successfully reset the filters", type = "message")
     })
