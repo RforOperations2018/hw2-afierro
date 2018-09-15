@@ -33,7 +33,7 @@ ui <- navbarPage("Pittsburgh Arrests",
                                           "Age:",
                                               min = min(hw2dat$Age, na.rm = T),
                                               max = max(hw2dat$Age, na.rm = T),
-                                              value = c (min(hw2dat$Age, na.rm = T), max(hw2dat$Age, na.rm = T)),
+                                              value = c(min(hw2dat$Age, na.rm = T), max(hw2dat$Age, na.rm = T)),
                                               step = 1),
                               actionButton("reset", "Reset Filters", icon = icon("refresh"))
                                           ),
@@ -108,8 +108,8 @@ output$table <- DT::renderDataTable({
   )
 # Reset Filter Data
 observeEvent(input$reset, {
-      updateSelectInput(session, "worldSelect", selected = c("Naboo", "Tatooine"))
-      updateSliderInput(session, "birthSelect", value = c(min(starwars.load$birth_year, na.rm = T), max(starwars.load$birth_year, na.rm = T)))
+      updateSelectInput(session, "NeighborhoodsSelect", selected = ("Central Business District")
+      updateSliderInput(session, "AgeSelect", value = c(min(hw2dat$Age, na.rm = T), max(hw2dat$Age, na.rm = T)))
       showNotification("You have successfully reset the filters", type = "message")
     })
 }
