@@ -1,8 +1,4 @@
-# Class 5
-# In Class Examples - Tabset
-
-# Class 4
-# In Class Examples - Inputs - Final
+# Let's change the headers next time. Easy points were missed.
 
 library(shiny)
 library(reshape2)
@@ -11,8 +7,10 @@ library(plotly)
 library(shinythemes)
 library(stringr)
 
-hw2dat <- read.csv("~/GitHub/hw2-afierro/CleanPittArressts.csv")
-arrests.load <- hw2dat %>%
+# I had to move this file to the directory the app was in for it to load and change the
+hw2dat <- read.csv("CleanPittArressts.csv")
+arrests.load <- hw2dat # %>% 
+# The above above was breaking things.One of the first reasons your app wasn't working
 
 pdf(NULL)
 
@@ -24,14 +22,16 @@ ui <- navbarPage("Pittsburgh Arrests",
                               # Neighborhood select
                               selectInput("NeighborhoodSelect",
                                           "Neighborhood:",
-                                          choices = sort(unique(arrests.load$Neighborhood),
+                                          # Missing close paren
+                                          choices = sort(unique(arrests.load$Neighborhood)),
                                                          multiple = TRUE,
                                                          selectize = TRUE,
                                                          selected = c("Central Business District", "Shadyside", "North Shore")),
                               # Race select
                               selectInput("RaceSelect",
                                           "Race:",
-                                          choices = sort(unique(arrests.load$Race),
+                                          # Missing close paren
+                                          choices = sort(unique(arrests.load$Race)),
                                           multiple = TRUE,
                                           selectize = TRUE,
                                           selected = "White"),
@@ -59,53 +59,54 @@ tabPanel("Table",
       downloadButton("downloadData","Download Pittsburgh Arrests Data")
                                      ),
     fluidPage(DT::dataTableOutput("table"))
-))))
+))
 
 # Define server logic
 server <- function(input, output, session = session) {
 # Filtered arrests data
-    AInput <- reactive({
+    PInput <- reactive({
       arrests <- arrests.load %>%
 # Age Slider Filter
-    filter(Age >= input$ageSelect[1] & Age <= input$ageSelect[2])
+      filter(Age >= input$ageSelect[1] & Age <= input$ageSelect[2])
       
 # Neighborhood Filter
     if (length(input$NeighborhoodsSelect) > 0 ) {
-    Ndat <- subset(hw2dat, Neighborhood %in% input$NeighborhoodSelect)
+    # If the neighborhood select is zero, you end up calling a variable that doesn't exist. Unlike other instances in R, in Shiny we want to keep overwriting the object because of issues like this.
+    arrrests <- subset(arrests, Neighborhood %in% input$NeighborhoodSelect)
   }
                               
-    return(Ndat)
+    return(arrests)
 })
 # Reactive data
 PAInput <- reactive({
-      PInput() %>%
+      PInput() #%>% pipes are only needed if you're doing something
 })
 # Neighbrohood Plot
 output$Neighborhoodsplot <- renderPlotly({
       dat <- PInput()
-          ggplotly(
-      ggplot(data = dat, aes(x = Neighborhood)) +                                                                                                   "<br>Height: ", height))) + 
+      ggplot(data = dat, aes(x = Neighborhood)) + 
       geom_bar()
 })
 # Race Plot
 output$Raceplot <- renderPlotly({
-  dat <- PInput()
-  ggplot(data = dat.race, aes(x = Race2, fill = Arrest1)) + 
+  # You called it dat but then called dat.race, be consistent with your naming of objects
+  dat.race <- PInput()
+  # Race2 isn't a column, changed it to Race
+  ggplot(data = dat.race, aes(x = Race, fill = Arrest1)) + 
     geom_bar() +
     guides(color = FALSE)
-  , tooltip = "text")
 })
 # Age Plot
 output$plot <- renderPlotly({
   dat <- PInput()
-  ggplotly(
-    ggplot(data = dat, aes(x = Age)) +                                                                                                   "<br>Height: ", height))) + 
+  # Height isn't a variable in this data.
+    ggplot(data = dat, aes(x = Age)) + 
   geom_bar() +
   guides(color = FALSE)
-, tooltip = "text")
 })
 # Data Table
 output$table <- DT::renderDataTable({
+  # This isn't tied to the reactive data
   (hw2dat)
 })
 # Updating the URL Bar
