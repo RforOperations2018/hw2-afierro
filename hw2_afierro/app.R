@@ -22,15 +22,15 @@ ui <- navbarPage("Pittsburgh Arrests",
                                           choices = c("Criminal Conspiracy", "Criminal Mischief", "Forgery", "Marijuana Possession", "Retail Theft", "Public Drunkenness"),
                                           multiple = TRUE,
                                           selectize = TRUE,
-                                          selected = ("Criminal Conspiracy"))
-                              
+                                          selected = ("Criminal Conspiracy")),
+                              mainPanel(
+                                plotlyOutput("Plot1"), position = c("left","right"), fluid = TRUE)
                             ))))
 
 server <- function(input, output, session = session) {
-  output$plot <- renderPlotly({
+  output$Plot1 <- renderPlotly({
     ggplot(data = dat, aes(x = Arrest1 )) + geom_bar()
   })
 }
 
 shinyApp(ui = ui, server = server, session = session)
-
