@@ -27,7 +27,7 @@ ui <- navbarPage("Pittsburgh Arrests",
                                           choices = sort(unique(arrests.load$Neighborhood),
                                                          multiple = TRUE,
                                                          selectize = TRUE,
-                                                         selected = "Central Business District"),
+                                                         selected = c("Central Business District", "Shadyside", "North Shore")),
                               # Race select
                               selectInput("RaceSelect",
                                           "Race:",
@@ -63,7 +63,7 @@ tabPanel("Table",
 
 # Define server logic
 server <- function(input, output, session = session) {
-# Filtered Starwars data
+# Filtered arrests data
     AInput <- reactive({
       arrests <- arrests.load %>%
 # Age Slider Filter
@@ -76,7 +76,7 @@ server <- function(input, output, session = session) {
                               
     return(Ndat)
 })
-# Reactive melted data
+# Reactive data
 PAInput <- reactive({
       PInput() %>%
 })
@@ -91,14 +91,18 @@ output$Neighborhoodsplot <- renderPlotly({
 output$Raceplot <- renderPlotly({
   dat <- PInput()
   ggplot(data = dat.race, aes(x = Race2, fill = Arrest1)) + 
-    geom_bar()
+    geom_bar() +
+    guides(color = FALSE)
+  , tooltip = "text")
 })
 # Age Plot
 output$plot <- renderPlotly({
   dat <- PInput()
   ggplotly(
     ggplot(data = dat, aes(x = Age)) +                                                                                                   "<br>Height: ", height))) + 
-  geom_bar()
+  geom_bar() +
+  guides(color = FALSE)
+, tooltip = "text")
 })
 # Data Table
 output$table <- DT::renderDataTable({
@@ -123,7 +127,8 @@ output$table <- DT::renderDataTable({
   ) 
 # Reset Filter Data
 observeEvent(input$reset, {
-      updateSelectInput(session, "NeighborhoodsSelect", selected = "Central Business District")
+      updateSelectInput(session, "NeighborhoodsSelect", selected = c("Central Business District", "Shadyside", "North Shore"))
+      updateSelectInput(session, "RaceSelect", selected = "White")
       updateSliderInput(session, "AgeSelect", value = c(min(hw2dat$Age, na.rm = T), max(hw2dat$Age, na.rm = T)))
       showNotification("You have successfully reset the filters", type = "message")
     })
