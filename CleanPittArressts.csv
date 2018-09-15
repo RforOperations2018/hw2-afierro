@@ -1,0 +1,1338 @@
+,_id,Age,Sex,Race,Year,Arrest1,Neighborhood
+267,4251,57,M,B,2017,Criminal Mischief,Allegheny Center
+609,4248,57,M,B,2017,Criminal Mischief,Allegheny Center
+610,4250,57,M,B,2017,Criminal Mischief,Allegheny Center
+877,879,32,M,W,2016,Criminal Mischief,Allegheny Center
+596,13815,20,F,B,2017,Marijuana Possession,Allegheny Center
+767,4489,22,F,O,2017,Marijuana Possession,Allegheny Center
+408,16981,23,M,B,2018,Public Drunkenness,Allegheny Center
+728,9839,30,F,W,2017,Public Drunkenness,Allegheny Center
+9,16132,55,F,B,2017,Public Drunkenness,Allegheny Center
+56,15982,37,M,W,2017,Public Drunkenness,Allegheny Center
+783,5302,34,M,B,2017,Criminal Mischief,Allegheny West
+942,11264,38,M,W,2017,Public Drunkenness,Allegheny West
+213,18313,37,M,B,2018,Criminal Conspiracy,Allentown
+214,18312,37,M,B,2018,Criminal Conspiracy,Allentown
+240,19140,27,M,B,2018,Criminal Conspiracy,Allentown
+344,8302,21,F,B,2017,Criminal Conspiracy,Allentown
+524,19136,21,M,H,2018,Criminal Conspiracy,Allentown
+525,19141,46,M,H,2018,Criminal Conspiracy,Allentown
+526,19142,20,M,B,2018,Criminal Conspiracy,Allentown
+531,19143,22,M,B,2018,Criminal Conspiracy,Allentown
+540,19146,20,M,B,2018,Criminal Conspiracy,Allentown
+541,19144,22,F,B,2018,Criminal Conspiracy,Allentown
+542,19147,21,M,B,2018,Criminal Conspiracy,Allentown
+547,19149,17,M,B,2018,Criminal Conspiracy,Allentown
+20,10709,21,M,B,2017,Criminal Conspiracy,Allentown
+993,1194,30,F,B,2016,Criminal Conspiracy,Allentown
+994,1195,31,M,B,2016,Criminal Conspiracy,Allentown
+1048,10710,25,F,W,2017,Criminal Conspiracy,Allentown
+277,16727,24,M,B,2018,Marijuana Possession,Allentown
+457,20468,49,M,W,2018,Marijuana Possession,Allentown
+529,16962,23,M,W,2018,Marijuana Possession,Allentown
+655,16728,23,M,B,2018,Marijuana Possession,Allentown
+969,1128,19,M,H,2016,Marijuana Possession,Allentown
+973,11953,19,F,W,2017,Marijuana Possession,Allentown
+670,11356,36,M,W,2017,Public Drunkenness,Allentown
+766,11512,38,M,W,2017,Public Drunkenness,Allentown
+65,21999,24,M,B,2018,Public Drunkenness,Allentown
+305,18587,30,F,B,2018,Criminal Conspiracy,Arlington
+1,15904,16,M,B,2017,Criminal Conspiracy,Arlington
+18,7395,21,M,W,2017,Criminal Conspiracy,Arlington
+48,15978,21,M,B,2017,Criminal Conspiracy,Arlington
+54,15979,21,M,B,2017,Criminal Conspiracy,Arlington
+620,19313,31,M,W,2018,Marijuana Possession,Arlington
+545,4043,29,M,W,2017,Criminal Mischief,Arlington
+820,10229,30,M,B,2017,Criminal Conspiracy,Arlington
+1269,1697,18,M,B,2016,Criminal Conspiracy,Arlington Heights
+1270,1699,19,M,B,2016,Criminal Conspiracy,Arlington Heights
+858,2931,25,M,B,2016,Marijuana Possession,Arlington Heights
+701,13702,23,M,B,2017,Marijuana Possession,Arlington Heights
+839,17979,41,M,B,2018,Marijuana Possession,Arlington Heights
+536,4293,36,M,W,2017,Criminal Conspiracy,Banksville
+239,2669,20,M,B,2016,Forgery,Banksville
+762,4731,38,M,B,2017,Marijuana Possession,Banksville
+921,11841,47,M,W,2017,Public Drunkenness,Banksville
+128,18921,27,M,B,2018,Criminal Conspiracy,Bedford Dwellings
+920,11839,29,M,B,2017,Criminal Conspiracy,Bedford Dwellings
+1086,12049,23,M,B,2017,Criminal Conspiracy,Bedford Dwellings
+1272,18922,28,M,B,2018,Criminal Conspiracy,Bedford Dwellings
+1273,18923,27,M,B,2018,Criminal Conspiracy,Bedford Dwellings
+677,3087,44,M,B,2016,Criminal Mischief,Bedford Dwellings
+313,3166,24,M,B,2016,Criminal Mischief,Bedford Dwellings
+184,16884,35,M,B,2018,Marijuana Possession,Bedford Dwellings
+468,11092,25,M,B,2017,Marijuana Possession,Bedford Dwellings
+742,13037,26,M,B,2017,Marijuana Possession,Bedford Dwellings
+897,17857,43,M,B,2018,Public Drunkenness,Bedford Dwellings
+82,18300,27,F,B,2018,Public Drunkenness,Bedford Dwellings
+814,11623,28,M,B,2017,Criminal Conspiracy,Bedford Dwellings
+272,8129,15,F,B,2017,Criminal Conspiracy,Beechview
+275,8131,13,M,U,2017,Criminal Conspiracy,Beechview
+289,8130,13,M,B,2017,Criminal Conspiracy,Beechview
+399,18832,34,F,W,2018,Criminal Conspiracy,Beechview
+467,11087,22,M,B,2017,Criminal Conspiracy,Beechview
+500,11127,29,F,B,2017,Criminal Conspiracy,Beechview
+647,20996,18,M,B,2018,Criminal Conspiracy,Beechview
+780,11088,19,M,B,2017,Criminal Conspiracy,Beechview
+847,5021,23,M,W,2017,Criminal Conspiracy,Beechview
+55,8687,37,F,W,2017,Criminal Conspiracy,Beechview
+995,5022,25,M,B,2017,Criminal Conspiracy,Beechview
+1131,5361,27,M,W,2017,Criminal Conspiracy,Beechview
+1214,11128,32,M,B,2017,Criminal Conspiracy,Beechview
+1312,20998,19,M,W,2018,Criminal Conspiracy,Beechview
+367,18801,32,F,W,2018,Criminal Mischief,Beechview
+949,1082,19,M,B,2016,Criminal Mischief,Beechview
+1130,19963,37,M,W,2018,Criminal Mischief,Beechview
+1307,19012,20,M,B,2018,Criminal Mischief,Beechview
+76,3740,27,M,B,2016,Marijuana Possession,Beechview
+99,7600,NA,F,W,2017,Marijuana Possession,Beechview
+225,2618,15,M,O,2016,Marijuana Possession,Beechview
+264,18464,18,F,B,2018,Marijuana Possession,Beechview
+266,18472,18,M,H,2018,Marijuana Possession,Beechview
+312,2592,16,F,O,2016,Marijuana Possession,Beechview
+346,16509,16,M,W,2018,Marijuana Possession,Beechview
+604,17112,13,M,W,2018,Marijuana Possession,Beechview
+644,13023,16,M,W,2017,Marijuana Possession,Beechview
+704,8829,17,M,H,2017,Marijuana Possession,Beechview
+988,10231,15,M,W,2017,Marijuana Possession,Beechview
+1074,9640,12,M,B,2017,Marijuana Possession,Beechview
+1281,18973,16,M,B,2018,Marijuana Possession,Beechview
+1026,12019,27,M,W,2017,Public Drunkenness,Beechview
+1283,12221,58,M,W,2017,Public Drunkenness,Beechview
+145,6099,20,M,B,2017,Criminal Conspiracy,Beltzhoover
+876,4660,34,M,B,2017,Criminal Conspiracy,Beltzhoover
+293,16015,38,F,W,2017,Criminal Mischief,Beltzhoover
+1221,20914,44,F,W,2018,Criminal Mischief,Beltzhoover
+1227,13942,39,M,B,2017,Criminal Mischief,Beltzhoover
+555,12829,19,F,W,2017,Marijuana Possession,Beltzhoover
+754,17461,20,M,B,2018,Marijuana Possession,Beltzhoover
+254,18450,35,M,W,2018,Criminal Conspiracy,Bloomfield
+873,17796,28,M,W,2018,Criminal Conspiracy,Bloomfield
+1182,11035,17,M,B,2017,Criminal Conspiracy,Bloomfield
+1262,14677,33,F,W,2017,Criminal Conspiracy,Bloomfield
+1333,1919,23,M,B,2016,Criminal Conspiracy,Bloomfield
+1189,20643,34,F,B,2018,Criminal Mischief,Bloomfield
+269,4473,37,M,W,2017,Forgery,Bloomfield
+1325,17491,41,M,B,2018,Marijuana Possession,Bloomfield
+1207,20416,33,F,B,2018,Public Drunkenness,Bloomfield
+450,16711,23,M,W,2018,Public Drunkenness,Bloomfield
+387,18825,60,M,B,2018,Criminal Conspiracy,Bluff
+668,21916,56,M,B,2018,Criminal Conspiracy,Bluff
+700,17608,49,M,B,2018,Criminal Conspiracy,Bluff
+874,11790,15,M,B,2017,Criminal Conspiracy,Bluff
+962,11911,16,M,B,2017,Criminal Conspiracy,Bluff
+321,12760,50,M,B,2017,Criminal Mischief,Bluff
+401,8309,57,M,B,2017,Criminal Mischief,Bluff
+914,7774,40,M,B,2017,Criminal Mischief,Bluff
+1287,5909,48,M,B,2017,Criminal Mischief,Bluff
+140,6326,35,F,B,2017,Criminal Mischief,Bluff
+861,11764,22,M,B,2017,Marijuana Possession,Bluff
+940,17971,44,M,B,2018,Marijuana Possession,Bluff
+37,10935,30,M,B,2017,Marijuana Possession,Bluff
+87,18863,35,M,B,2018,Marijuana Possession,Bluff
+425,6626,22,M,B,2017,Marijuana Possession,Bluff
+641,11773,34,M,B,2017,Marijuana Possession,Bluff
+775,19730,38,M,B,2018,Marijuana Possession,Bluff
+840,8181,25,F,B,2017,Marijuana Possession,Bluff
+855,5057,20,M,B,2017,Marijuana Possession,Bluff
+956,17972,43,M,B,2018,Marijuana Possession,Bluff
+1299,5058,18,M,B,2017,Marijuana Possession,Bluff
+1332,6051,25,M,B,2017,Marijuana Possession,Bluff
+194,2172,38,F,B,2016,Public Drunkenness,Bluff
+592,5256,23,M,B,2017,Public Drunkenness,Bluff
+1178,18744,55,M,B,2018,Public Drunkenness,Bluff
+577,10066,61,M,B,2017,Criminal Conspiracy,Bon Air
+1199,4727,22,F,W,2017,Criminal Conspiracy,Bon Air
+1210,4728,21,M,W,2017,Criminal Conspiracy,Bon Air
+929,4822,42,M,B,2017,Criminal Mischief,Bon Air
+698,9186,39,M,B,2017,Marijuana Possession,Bon Air
+229,8584,18,M,B,2017,Criminal Conspiracy,Brighton Heights
+245,2710,21,M,B,2016,Criminal Conspiracy,Brighton Heights
+357,2708,19,M,B,2016,Criminal Conspiracy,Brighton Heights
+378,16582,63,F,W,2018,Criminal Conspiracy,Brighton Heights
+1250,5791,25,M,B,2017,Criminal Conspiracy,Brighton Heights
+1335,6071,19,M,B,2017,Criminal Conspiracy,Brighton Heights
+190,1863,51,F,B,2016,Criminal Mischief,Brighton Heights
+884,19973,13,M,B,2018,Criminal Mischief,Brighton Heights
+1174,9752,18,M,W,2017,Forgery,Brighton Heights
+360,2123,49,M,W,2016,Marijuana Possession,Brighton Heights
+364,15611,27,M,B,2017,Marijuana Possession,Brighton Heights
+726,14285,22,M,W,2017,Marijuana Possession,Brighton Heights
+890,18241,12,M,B,2018,Marijuana Possession,Brighton Heights
+1179,22232,21,M,B,2018,Marijuana Possession,Brighton Heights
+323,3261,22,M,W,2016,Public Drunkenness,Brighton Heights
+974,11958,21,M,W,2017,Public Drunkenness,Brighton Heights
+339,18757,42,F,B,2018,Marijuana Possession,Brighton Heights
+197,18943,29,M,W,2018,Criminal Conspiracy,Brookline
+215,2587,13,M,U,2016,Criminal Conspiracy,Brookline
+219,2588,12,M,B,2016,Criminal Conspiracy,Brookline
+333,12313,20,M,B,2017,Criminal Conspiracy,Brookline
+381,8455,15,M,W,2017,Criminal Conspiracy,Brookline
+424,3558,26,M,B,2016,Criminal Conspiracy,Brookline
+454,8729,18,M,B,2017,Criminal Conspiracy,Brookline
+485,19333,22,M,B,2018,Criminal Conspiracy,Brookline
+490,3032,37,M,B,2016,Criminal Conspiracy,Brookline
+497,19637,17,M,B,2018,Criminal Conspiracy,Brookline
+665,8784,32,F,W,2017,Criminal Conspiracy,Brookline
+734,19636,17,M,B,2018,Criminal Conspiracy,Brookline
+818,17586,22,M,W,2018,Criminal Conspiracy,Brookline
+845,13261,12,F,W,2017,Criminal Conspiracy,Brookline
+852,716,23,M,W,2016,Criminal Conspiracy,Brookline
+52,8672,44,M,B,2017,Criminal Conspiracy,Brookline
+898,20043,54,M,W,2018,Criminal Conspiracy,Brookline
+1238,14612,14,M,U,2017,Criminal Conspiracy,Brookline
+896,20042,27,M,B,2018,Criminal Mischief,Brookline
+1003,10996,30,M,O,2017,Criminal Mischief,Brookline
+1251,4932,28,M,W,2017,Criminal Mischief,Brookline
+1311,21333,20,M,W,2018,Criminal Mischief,Brookline
+1326,5091,59,M,W,2017,Criminal Mischief,Brookline
+121,18908,15,M,W,2018,Marijuana Possession,Brookline
+449,18911,18,M,W,2018,Marijuana Possession,Brookline
+712,10345,48,M,W,2017,Public Drunkenness,Brookline
+1032,5147,49,M,W,2017,Public Drunkenness,Brookline
+1252,9731,55,F,W,2017,Public Drunkenness,Brookline
+297,3054,36,M,B,2016,Criminal Conspiracy,California-Kirkbride
+298,3055,39,F,B,2016,Criminal Conspiracy,California-Kirkbride
+16,1594,26,F,B,2016,Criminal Mischief,California-Kirkbride
+1075,18246,16,M,B,2018,Marijuana Possession,California-Kirkbride
+226,4365,15,F,B,2017,Criminal Conspiracy,Carrick
+355,19428,26,F,W,2018,Criminal Conspiracy,Carrick
+423,8433,22,M,B,2017,Criminal Conspiracy,Carrick
+476,19023,18,M,B,2018,Criminal Conspiracy,Carrick
+478,19024,21,M,B,2018,Criminal Conspiracy,Carrick
+492,4206,29,M,W,2017,Criminal Conspiracy,Carrick
+616,22897,16,F,W,2018,Criminal Conspiracy,Carrick
+657,19427,27,M,B,2018,Criminal Conspiracy,Carrick
+800,17732,32,F,W,2018,Criminal Conspiracy,Carrick
+1168,5366,NA,M,W,2017,Criminal Conspiracy,Carrick
+1035,18289,21,M,B,2018,Criminal Conspiracy,Carrick
+1107,20278,67,M,W,2018,Criminal Conspiracy,Carrick
+1145,20431,22,M,B,2018,Criminal Conspiracy,Carrick
+1234,3363,27,F,B,2016,Criminal Conspiracy,Carrick
+618,4183,36,M,B,2016,Criminal Mischief,Carrick
+195,9131,NA,F,W,2017,Criminal Mischief,Carrick
+1110,21904,23,M,W,2018,Criminal Mischief,Carrick
+1125,12132,28,M,B,2017,Criminal Mischief,Carrick
+1126,13278,36,F,B,2017,Criminal Mischief,Carrick
+1293,5954,22,M,B,2017,Criminal Mischief,Carrick
+1316,5989,33,F,B,2017,Criminal Mischief,Carrick
+296,2991,17,M,W,2016,Marijuana Possession,Carrick
+1157,20225,58,M,W,2018,Marijuana Possession,Carrick
+166,13105,20,F,W,2017,Marijuana Possession,Carrick
+174,4004,15,F,W,2016,Marijuana Possession,Carrick
+519,19128,15,M,O,2018,Marijuana Possession,Carrick
+522,19129,16,M,B,2018,Marijuana Possession,Carrick
+535,3997,18,M,B,2016,Marijuana Possession,Carrick
+538,4010,16,M,B,2016,Marijuana Possession,Carrick
+570,17044,15,M,B,2018,Marijuana Possession,Carrick
+590,9111,19,F,B,2017,Marijuana Possession,Carrick
+825,19870,16,M,B,2018,Marijuana Possession,Carrick
+895,11172,18,M,W,2017,Marijuana Possession,Carrick
+955,12984,16,M,B,2017,Marijuana Possession,Carrick
+1037,18896,23,M,W,2018,Marijuana Possession,Carrick
+138,10322,30,M,W,2017,Public Drunkenness,Carrick
+850,20076,25,F,B,2018,Public Drunkenness,Carrick
+33,10919,66,M,W,2017,Public Drunkenness,Carrick
+208,16574,53,M,B,2018,Criminal Conspiracy,Central Business District
+270,2845,39,M,W,2016,Criminal Conspiracy,Central Business District
+291,18535,19,F,B,2018,Criminal Conspiracy,Central Business District
+395,11011,27,F,W,2017,Criminal Conspiracy,Central Business District
+396,11012,27,F,W,2017,Criminal Conspiracy,Central Business District
+437,9718,53,M,B,2017,Criminal Conspiracy,Central Business District
+528,3981,16,M,B,2016,Criminal Conspiracy,Central Business District
+672,8781,48,F,W,2017,Criminal Conspiracy,Central Business District
+715,19591,20,M,B,2018,Criminal Conspiracy,Central Business District
+803,10148,30,M,H,2017,Criminal Conspiracy,Central Business District
+47,2035,30,M,B,2016,Criminal Conspiracy,Central Business District
+59,16010,31,F,W,2017,Criminal Conspiracy,Central Business District
+60,2092,33,F,B,2016,Criminal Conspiracy,Central Business District
+63,2093,30,F,B,2016,Criminal Conspiracy,Central Business District
+1036,13901,29,F,B,2017,Criminal Conspiracy,Central Business District
+1065,10750,64,M,B,2017,Criminal Conspiracy,Central Business District
+1078,18429,34,M,W,2018,Criminal Conspiracy,Central Business District
+1106,14156,28,F,B,2017,Criminal Conspiracy,Central Business District
+1212,14555,34,M,W,2017,Criminal Conspiracy,Central Business District
+118,2331,30,M,W,2016,Criminal Mischief,Central Business District
+515,4285,57,M,B,2017,Criminal Mischief,Central Business District
+32,10722,15,M,B,2017,Criminal Mischief,Central Business District
+598,4228,57,M,B,2017,Criminal Mischief,Central Business District
+601,4229,57,M,B,2017,Criminal Mischief,Central Business District
+945,13470,22,F,B,2017,Criminal Mischief,Central Business District
+1024,20136,22,F,W,2018,Criminal Mischief,Central Business District
+1247,4921,30,M,W,2017,Criminal Mischief,Central Business District
+1248,4924,30,M,W,2017,Criminal Mischief,Central Business District
+331,3318,55,M,B,2016,Public Drunkenness,Central Business District
+615,19309,35,M,W,2018,Forgery,Central Business District
+101,16105,NA,M,B,2017,Forgery,Central Business District
+221,10479,28,M,B,2017,Forgery,Central Business District
+224,18836,41,M,W,2018,Forgery,Central Business District
+343,18777,34,F,W,2018,Forgery,Central Business District
+368,9528,19,M,H,2017,Forgery,Central Business District
+488,22562,52,F,B,2018,Forgery,Central Business District
+614,9138,NA,M,H,2017,Forgery,Central Business District
+952,4871,53,M,B,2017,Forgery,Central Business District
+1064,22563,20,F,B,2018,Forgery,Central Business District
+1181,20591,20,F,B,2018,Forgery,Central Business District
+320,3236,37,M,W,2016,Marijuana Possession,Central Business District
+375,2748,25,M,B,2016,Marijuana Possession,Central Business District
+562,19210,27,M,W,2018,Marijuana Possession,Central Business District
+589,19249,42,M,W,2018,Marijuana Possession,Central Business District
+794,11077,30,M,W,2017,Marijuana Possession,Central Business District
+908,18297,22,M,W,2018,Marijuana Possession,Central Business District
+968,14029,49,M,B,2017,Marijuana Possession,Central Business District
+1013,9035,26,M,B,2017,Marijuana Possession,Central Business District
+1073,16519,17,F,W,2017,Marijuana Possession,Central Business District
+1103,20269,45,M,B,2018,Marijuana Possession,Central Business District
+1277,5878,20,M,B,2017,Marijuana Possession,Central Business District
+130,8863,36,M,W,2017,Public Drunkenness,Central Business District
+142,18108,36,M,W,2018,Public Drunkenness,Central Business District
+161,11692,40,M,B,2017,Public Drunkenness,Central Business District
+234,16624,54,M,B,2018,Public Drunkenness,Central Business District
+253,18439,34,M,W,2018,Public Drunkenness,Central Business District
+290,2932,43,M,W,2016,Public Drunkenness,Central Business District
+324,12291,35,M,B,2017,Public Drunkenness,Central Business District
+356,19432,37,F,W,2018,Public Drunkenness,Central Business District
+499,19645,43,M,W,2018,Public Drunkenness,Central Business District
+508,9901,37,M,W,2017,Public Drunkenness,Central Business District
+539,17389,31,M,B,2018,Public Drunkenness,Central Business District
+563,4103,33,F,W,2016,Public Drunkenness,Central Business District
+622,19329,32,M,W,2018,Public Drunkenness,Central Business District
+656,7418,25,M,W,2017,Public Drunkenness,Central Business District
+660,19380,46,M,W,2018,Public Drunkenness,Central Business District
+706,17614,37,F,W,2018,Public Drunkenness,Central Business District
+746,17721,25,M,A,2018,Public Drunkenness,Central Business District
+841,19431,51,M,W,2018,Public Drunkenness,Central Business District
+842,9282,28,M,B,2017,Public Drunkenness,Central Business District
+922,17439,46,F,W,2018,Public Drunkenness,Central Business District
+979,5603,24,F,B,2017,Public Drunkenness,Central Business District
+1000,9347,39,M,B,2017,Public Drunkenness,Central Business District
+1001,18155,24,M,B,2018,Public Drunkenness,Central Business District
+1044,20147,37,M,W,2018,Public Drunkenness,Central Business District
+1155,20854,20,M,B,2018,Public Drunkenness,Central Business District
+1167,9446,26,M,W,2017,Public Drunkenness,Central Business District
+41,3648,28,F,O,2016,Public Drunkenness,Central Business District
+1200,20714,50,M,W,2018,Public Drunkenness,Central Business District
+1204,18786,21,M,W,2018,Public Drunkenness,Central Business District
+1211,1377,40,M,W,2016,Public Drunkenness,Central Business District
+1267,21186,53,M,B,2018,Public Drunkenness,Central Business District
+1302,6080,35,M,B,2017,Public Drunkenness,Central Business District
+440,18937,58,M,B,2018,Marijuana Possession,Central Business District
+625,15793,35,M,W,2017,Criminal Mischief,Central Business District
+682,4294,52,M,W,2017,Criminal Conspiracy,Central Business District
+773,19722,29,M,W,2018,Criminal Conspiracy,Central Business District
+250,18426,52,M,W,2018,Public Drunkenness,Central Business District
+148,22428,17,M,W,2018,Criminal Conspiracy,Central Lawrenceville
+420,19627,40,F,W,2018,Criminal Conspiracy,Central Lawrenceville
+442,3651,23,F,W,2016,Criminal Conspiracy,Central Lawrenceville
+443,3652,21,M,O,2016,Criminal Conspiracy,Central Lawrenceville
+688,11817,34,M,B,2017,Criminal Conspiracy,Central Lawrenceville
+731,19628,46,M,W,2018,Criminal Conspiracy,Central Lawrenceville
+916,4790,20,M,B,2017,Criminal Conspiracy,Central Lawrenceville
+1161,18721,27,F,B,2018,Criminal Conspiracy,Central Lawrenceville
+1328,11815,32,M,W,2017,Criminal Conspiracy,Central Lawrenceville
+1330,11816,24,M,W,2017,Criminal Conspiracy,Central Lawrenceville
+1275,18930,23,M,W,2018,Criminal Mischief,Central Lawrenceville
+12,18722,98,M,W,2018,Marijuana Possession,Central Lawrenceville
+22,18727,19,M,W,2018,Marijuana Possession,Central Lawrenceville
+362,10733,27,M,B,2017,Marijuana Possession,Central Lawrenceville
+473,4312,21,M,B,2017,Marijuana Possession,Central Lawrenceville
+821,2664,30,M,W,2016,Marijuana Possession,Central Lawrenceville
+1091,20243,56,M,W,2018,Public Drunkenness,Central Lawrenceville
+1154,18723,22,M,B,2018,Public Drunkenness,Central Lawrenceville
+407,12391,27,M,W,2017,Marijuana Possession,Central Lawrenceville
+429,4077,34,F,W,2017,Criminal Conspiracy,Central North Side
+804,20701,60,M,B,2018,Criminal Conspiracy,Central North Side
+833,19882,26,M,B,2018,Criminal Conspiracy,Central North Side
+836,19891,36,F,B,2018,Criminal Conspiracy,Central North Side
+1323,6019,48,M,B,2017,Criminal Conspiracy,Central North Side
+727,11445,30,F,B,2017,Marijuana Possession,Central North Side
+162,16855,19,F,B,2018,Marijuana Possession,Central North Side
+551,16983,24,M,B,2018,Marijuana Possession,Central North Side
+827,7590,40,M,B,2017,Marijuana Possession,Central North Side
+1052,18188,35,M,W,2018,Marijuana Possession,Central North Side
+438,17032,NA,M,B,2018,Marijuana Possession,Central North Side
+710,17378,21,F,B,2018,Criminal Conspiracy,Central North Side
+693,39,27,M,B,2016,Criminal Conspiracy,Central Northside
+342,16733,49,M,B,2018,Criminal Conspiracy,Central Oakland
+392,3467,17,M,B,2016,Criminal Conspiracy,Central Oakland
+719,19612,24,M,U,2018,Criminal Conspiracy,Central Oakland
+720,19615,24,M,B,2018,Criminal Conspiracy,Central Oakland
+723,19614,25,M,B,2018,Criminal Conspiracy,Central Oakland
+756,17463,18,M,B,2018,Criminal Conspiracy,Central Oakland
+760,17464,20,M,B,2018,Criminal Conspiracy,Central Oakland
+846,3835,18,M,B,2017,Criminal Conspiracy,Central Oakland
+983,4917,17,M,B,2017,Criminal Conspiracy,Central Oakland
+1014,10676,17,M,B,2017,Criminal Conspiracy,Central Oakland
+1246,4919,17,M,B,2017,Criminal Conspiracy,Central Oakland
+1229,11218,23,M,B,2017,Forgery,Central Oakland
+185,2509,19,F,W,2016,Public Drunkenness,Central Oakland
+475,12556,18,M,W,2017,Public Drunkenness,Central Oakland
+583,3322,56,M,B,2016,Public Drunkenness,Central Oakland
+1019,5113,67,M,W,2017,Public Drunkenness,Central Oakland
+1030,5127,37,M,W,2017,Public Drunkenness,Central Oakland
+1148,18705,20,F,W,2018,Public Drunkenness,Central Oakland
+259,3661,22,F,W,2016,Criminal Conspiracy,Chateau
+351,19426,29,M,B,2018,Criminal Conspiracy,Chateau
+650,19425,24,M,B,2018,Criminal Conspiracy,Chateau
+1055,18203,42,F,W,2018,Criminal Conspiracy,Chateau
+1217,18581,32,M,W,2018,Criminal Conspiracy,Chateau
+1313,18783,34,M,W,2018,Criminal Mischief,Chateau
+501,11140,32,M,W,2017,Forgery,Chateau
+79,8915,20,F,B,2017,Marijuana Possession,Chateau
+96,2244,26,M,A,2016,Marijuana Possession,Chateau
+591,8599,23,F,W,2017,Marijuana Possession,Chateau
+902,20299,19,M,B,2018,Marijuana Possession,Chateau
+1015,13115,23,M,W,2017,Marijuana Possession,Chateau
+736,204,47,M,H,2016,Public Drunkenness,Chateau
+893,20038,24,M,B,2018,Criminal Conspiracy,Crafton Heights
+258,18462,24,M,W,2018,Criminal Mischief,Crafton Heights
+937,4836,24,F,B,2017,Criminal Mischief,Crafton Heights
+307,9342,35,M,B,2017,Marijuana Possession,Crafton Heights
+260,11287,41,F,W,2017,Public Drunkenness,Crafton Heights
+164,2425,24,M,B,2016,Criminal Conspiracy,Crawford-Roberts
+232,2630,19,M,B,2016,Criminal Conspiracy,Crawford-Roberts
+459,3700,32,M,B,2016,Criminal Conspiracy,Crawford-Roberts
+627,11263,52,F,B,2017,Criminal Conspiracy,Crawford-Roberts
+651,11347,40,F,B,2017,Criminal Conspiracy,Crawford-Roberts
+739,4531,28,M,B,2017,Criminal Conspiracy,Crawford-Roberts
+774,4532,56,F,B,2017,Criminal Conspiracy,Crawford-Roberts
+792,4534,22,M,B,2017,Criminal Conspiracy,Crawford-Roberts
+959,11910,36,F,B,2017,Criminal Conspiracy,Crawford-Roberts
+1060,2629,21,F,B,2016,Criminal Conspiracy,Crawford-Roberts
+1114,3447,40,F,B,2016,Criminal Conspiracy,Crawford-Roberts
+248,18411,23,M,W,2018,Criminal Mischief,Crawford-Roberts
+633,3437,39,M,W,2016,Forgery,Crawford-Roberts
+227,22231,23,M,B,2018,Marijuana Possession,Crawford-Roberts
+537,9974,23,M,B,2017,Marijuana Possession,Crawford-Roberts
+587,3879,23,M,B,2016,Marijuana Possession,Crawford-Roberts
+1113,20291,37,M,W,2018,Marijuana Possession,Crawford-Roberts
+1122,20307,20,M,B,2018,Marijuana Possession,Crawford-Roberts
+1160,5393,20,M,B,2017,Marijuana Possession,Crawford-Roberts
+1208,20768,43,M,B,2018,Marijuana Possession,Crawford-Roberts
+129,18089,27,F,B,2018,Public Drunkenness,Crawford-Roberts
+469,8529,41,F,B,2017,Criminal Mischief,Crawford-Roberts
+530,8528,42,F,B,2017,Criminal Mischief,Crawford-Roberts
+559,4091,23,M,B,2016,Criminal Mischief,Crawford-Roberts
+695,3562,39,M,W,2016,Marijuana Possession,Duquesne Heights
+432,11043,30,F,W,2017,Criminal Conspiracy,East Allegheny
+666,4454,33,F,B,2017,Criminal Conspiracy,East Allegheny
+764,8361,51,M,B,2017,Criminal Conspiracy,East Allegheny
+80,8743,15,M,B,2017,Criminal Conspiracy,East Allegheny
+870,11781,27,M,B,2017,Criminal Conspiracy,East Allegheny
+899,21192,45,F,B,2018,Criminal Conspiracy,East Allegheny
+919,961,53,M,B,2016,Criminal Conspiracy,East Allegheny
+1117,20293,20,M,B,2018,Criminal Conspiracy,East Allegheny
+1118,20292,20,M,W,2018,Criminal Conspiracy,East Allegheny
+1185,11041,34,M,B,2017,Criminal Conspiracy,East Allegheny
+1258,5819,35,M,B,2017,Criminal Conspiracy,East Allegheny
+1260,4951,19,M,B,2017,Criminal Conspiracy,East Allegheny
+196,22600,29,U,B,2018,Criminal Mischief,East Allegheny
+753,19677,38,M,B,2018,Forgery,East Allegheny
+19,10708,21,M,B,2017,Marijuana Possession,East Allegheny
+251,9866,22,M,B,2017,Marijuana Possession,East Allegheny
+431,9708,30,F,B,2017,Marijuana Possession,East Allegheny
+511,11626,39,F,B,2017,Marijuana Possession,East Allegheny
+1051,13970,30,M,B,2017,Marijuana Possession,East Allegheny
+1120,14188,53,M,B,2017,Marijuana Possession,East Allegheny
+1176,9709,25,F,B,2017,Marijuana Possession,East Allegheny
+1240,11256,35,M,B,2017,Marijuana Possession,East Allegheny
+263,2832,57,M,B,2016,Public Drunkenness,East Allegheny
+815,4905,35,M,W,2017,Public Drunkenness,East Allegheny
+1040,4896,54,M,B,2017,Public Drunkenness,East Allegheny
+1085,12048,44,M,W,2017,Public Drunkenness,East Allegheny
+1098,6166,26,M,W,2017,Public Drunkenness,East Allegheny
+1163,4651,31,M,W,2016,Public Drunkenness,East Allegheny
+1219,11152,30,M,B,2017,Public Drunkenness,East Allegheny
+1230,1614,36,F,B,2016,Public Drunkenness,East Allegheny
+1279,5886,33,M,B,2017,Public Drunkenness,East Allegheny
+1288,3356,NA,M,W,2016,Public Drunkenness,East Allegheny
+1308,5966,30,M,B,2017,Public Drunkenness,East Allegheny
+153,4272,29,F,W,2017,Forgery,East Allegheny
+95,16330,24,F,B,2018,Criminal Conspiracy,East Hills
+104,22354,22,F,B,2018,Criminal Conspiracy,East Hills
+183,16568,26,F,B,2018,Criminal Conspiracy,East Hills
+1138,18643,17,M,B,2018,Criminal Conspiracy,East Hills
+1101,12094,18,M,B,2017,Criminal Conspiracy,East Hills
+1102,12095,26,M,B,2017,Criminal Conspiracy,East Hills
+1109,19949,20,M,B,2018,Criminal Conspiracy,East Hills
+154,8914,23,F,B,2017,Criminal Mischief,East Hills
+582,4167,23,F,B,2017,Criminal Mischief,East Hills
+662,20210,24,M,B,2018,Criminal Mischief,East Hills
+755,4722,29,F,B,2017,Criminal Mischief,East Hills
+941,4767,29,F,B,2017,Criminal Mischief,East Hills
+1249,6491,24,F,B,2017,Criminal Mischief,East Hills
+927,11866,37,M,B,2017,Marijuana Possession,East Hills
+722,19485,22,M,B,2018,Marijuana Possession,East Hills
+871,860,33,M,B,2016,Marijuana Possession,East Hills
+1197,9652,13,M,B,2017,Marijuana Possession,East Hills
+793,17959,26,M,B,2018,Criminal Conspiracy,East Hills
+830,604,26,M,B,2016,Criminal Conspiracy,East Hills
+848,4606,46,M,B,2017,Criminal Conspiracy,East Hills
+223,18332,27,M,B,2018,Public Drunkenness,East Hills
+177,1276,15,F,B,2016,Criminal Conspiracy,East Liberty
+316,19279,19,F,B,2018,Criminal Conspiracy,East Liberty
+388,17268,NA,M,W,2018,Criminal Conspiracy,East Liberty
+439,17035,19,M,B,2018,Criminal Conspiracy,East Liberty
+549,17410,18,F,B,2018,Criminal Conspiracy,East Liberty
+556,19186,19,F,W,2018,Criminal Conspiracy,East Liberty
+561,17036,20,M,B,2018,Criminal Conspiracy,East Liberty
+564,4110,16,M,B,2017,Criminal Conspiracy,East Liberty
+567,4120,13,M,B,2017,Criminal Conspiracy,East Liberty
+581,4108,13,M,B,2017,Criminal Conspiracy,East Liberty
+659,17673,22,M,B,2018,Criminal Conspiracy,East Liberty
+664,17267,56,M,W,2018,Criminal Conspiracy,East Liberty
+684,9,17,M,B,2016,Criminal Conspiracy,East Liberty
+729,176,21,M,W,2016,Criminal Conspiracy,East Liberty
+741,19280,18,F,B,2018,Criminal Conspiracy,East Liberty
+765,278,16,M,B,2016,Criminal Conspiracy,East Liberty
+824,7484,22,M,B,2017,Criminal Conspiracy,East Liberty
+829,590,22,F,W,2016,Criminal Conspiracy,East Liberty
+931,4081,18,M,B,2017,Criminal Conspiracy,East Liberty
+1268,5873,29,M,B,2017,Criminal Conspiracy,East Liberty
+1276,5874,39,M,B,2017,Criminal Conspiracy,East Liberty
+279,3681,40,M,B,2016,Criminal Mischief,East Liberty
+489,14526,60,M,B,2017,Criminal Mischief,East Liberty
+187,12344,51,F,B,2017,Forgery,East Liberty
+1061,20174,16,M,B,2018,Forgery,East Liberty
+233,2640,24,M,B,2016,Marijuana Possession,East Liberty
+273,3976,19,M,B,2016,Marijuana Possession,East Liberty
+372,18808,37,M,B,2018,Marijuana Possession,East Liberty
+427,5933,17,M,B,2017,Marijuana Possession,East Liberty
+626,12964,24,F,B,2017,Marijuana Possession,East Liberty
+970,13598,19,M,B,2017,Marijuana Possession,East Liberty
+1188,20049,54,M,B,2018,Marijuana Possession,East Liberty
+1266,14921,19,M,B,2017,Marijuana Possession,East Liberty
+703,11415,25,F,B,2017,Public Drunkenness,East Liberty
+705,11414,26,M,B,2017,Public Drunkenness,East Liberty
+745,2757,38,M,B,2016,Public Drunkenness,East Liberty
+28,3218,41,M,B,2016,Public Drunkenness,East Liberty
+1310,5969,27,F,B,2017,Public Drunkenness,East Liberty
+851,9288,36,M,W,2017,Criminal Mischief,East Liberty
+212,2577,23,M,B,2016,Criminal Conspiracy,Elliott
+246,11918,33,F,B,2017,Criminal Conspiracy,Elliott
+409,17650,33,M,B,2018,Criminal Conspiracy,Elliott
+785,614,14,M,W,2016,Criminal Conspiracy,Elliott
+15,11306,34,F,B,2017,Criminal Conspiracy,Elliott
+1010,5085,59,M,W,2017,Criminal Conspiracy,Elliott
+1338,197,10,M,O,2016,Criminal Conspiracy,Elliott
+1224,19159,25,F,B,2018,Criminal Mischief,Elliott
+222,18827,18,M,B,2018,Marijuana Possession,Elliott
+790,434,28,M,B,2016,Marijuana Possession,Elliott
+975,21448,19,M,B,2018,Marijuana Possession,Elliott
+996,18849,20,M,O,2018,Marijuana Possession,Elliott
+1215,6300,13,M,B,2017,Criminal Conspiracy,Esplen
+46,11338,48,M,W,2017,Criminal Mischief,Esplen
+889,18168,24,M,W,2018,Marijuana Possession,Esplen
+912,4764,19,M,B,2017,Criminal Conspiracy,Fairywood
+1198,1576,23,M,B,2016,Criminal Conspiracy,Fairywood
+61,17894,29,F,B,2018,Criminal Mischief,Fairywood
+1196,214,22,M,B,2016,Criminal Mischief,Fairywood
+791,11558,24,F,W,2017,Criminal Conspiracy,Fairywood
+200,2553,20,F,B,2016,Criminal Conspiracy,Fineview
+322,16444,27,M,B,2018,Criminal Conspiracy,Fineview
+337,18752,19,F,B,2018,Criminal Conspiracy,Fineview
+593,17090,31,M,B,2018,Criminal Conspiracy,Fineview
+7,1916,50,F,W,2016,Criminal Conspiracy,Fineview
+10,1917,23,M,B,2016,Criminal Conspiracy,Fineview
+11,1918,28,M,B,2016,Criminal Conspiracy,Fineview
+1087,18446,24,M,B,2018,Criminal Conspiracy,Fineview
+1134,5369,30,M,B,2017,Criminal Conspiracy,Fineview
+1135,5370,31,M,B,2017,Criminal Conspiracy,Fineview
+1193,18753,19,F,B,2018,Criminal Conspiracy,Fineview
+1038,18151,34,M,B,2018,Criminal Mischief,Fineview
+1141,9662,20,M,O,2017,Marijuana Possession,Fineview
+85,11446,47,M,B,2017,Marijuana Possession,Fineview
+834,19883,21,M,B,2018,Marijuana Possession,Fineview
+167,18202,21,M,B,2018,Marijuana Possession,Fineview
+460,279,18,M,W,2016,Criminal Conspiracy,Friendship
+680,11392,18,F,B,2017,Criminal Conspiracy,Friendship
+832,11677,47,M,B,2017,Criminal Conspiracy,Friendship
+1062,4969,19,F,B,2017,Criminal Conspiracy,Friendship
+386,3456,18,M,B,2016,Criminal Conspiracy,Garfield
+389,3457,20,M,B,2016,Criminal Conspiracy,Garfield
+486,3865,39,M,B,2016,Criminal Conspiracy,Garfield
+493,12592,21,M,B,2017,Criminal Conspiracy,Garfield
+498,12596,16,M,B,2017,Criminal Conspiracy,Garfield
+786,1861,37,F,B,2016,Criminal Conspiracy,Garfield
+862,3866,47,M,B,2016,Criminal Conspiracy,Garfield
+911,17872,30,M,B,2018,Criminal Conspiracy,Garfield
+947,4755,30,M,H,2016,Criminal Mischief,Garfield
+193,12369,33,M,B,2017,Marijuana Possession,Garfield
+244,2705,25,M,B,2016,Marijuana Possession,Garfield
+763,12334,17,M,B,2017,Marijuana Possession,Garfield
+1022,20117,25,M,B,2018,Marijuana Possession,Garfield
+1069,12005,23,M,B,2017,Marijuana Possession,Garfield
+1225,11205,21,M,B,2017,Marijuana Possession,Garfield
+1265,11316,21,M,B,2017,Marijuana Possession,Garfield
+749,11479,25,F,B,2017,Criminal Conspiracy,Glen Hazel
+752,11478,23,M,B,2017,Criminal Conspiracy,Glen Hazel
+235,2644,37,M,B,2016,Public Drunkenness,Glen Hazel
+1028,18842,39,M,B,2018,Public Drunkenness,Glen Hazel
+632,655,18,M,B,2016,Criminal Conspiracy,Golden Triangle/Civic Arena
+211,734,21,M,W,2016,Public Drunkenness,Golden Triangle/Civic Arena
+863,542,37,M,B,2016,Public Drunkenness,Golden Triangle/Civic Arena
+984,1183,45,M,W,2016,Public Drunkenness,Golden Triangle/Civic Arena
+132,2374,15,M,B,2016,Criminal Conspiracy,Greenfield
+136,2376,14,M,B,2016,Criminal Conspiracy,Greenfield
+967,2375,15,M,B,2016,Criminal Conspiracy,Greenfield
+654,11930,29,M,W,2017,Criminal Mischief,Greenfield
+886,3746,43,M,B,2016,Criminal Mischief,Greenfield
+472,3068,38,F,W,2016,Forgery,Greenfield
+335,2670,36,F,W,2016,Marijuana Possession,Greenfield
+681,3097,13,M,O,2016,Marijuana Possession,Greenfield
+1083,17765,22,M,W,2018,Marijuana Possession,Hays
+97,9098,17,M,B,2017,Criminal Conspiracy,Hazelwood
+103,2276,20,F,B,2016,Criminal Conspiracy,Hazelwood
+124,15686,18,M,B,2017,Criminal Conspiracy,Hazelwood
+228,2275,21,F,B,2016,Criminal Conspiracy,Hazelwood
+403,1101,21,F,B,2016,Criminal Conspiracy,Hazelwood
+686,17323,31,M,B,2018,Criminal Conspiracy,Hazelwood
+759,13078,45,F,B,2017,Criminal Conspiracy,Hazelwood
+802,5331,17,M,B,2017,Criminal Conspiracy,Hazelwood
+50,7421,31,M,B,2017,Criminal Conspiracy,Hazelwood
+869,9097,15,M,B,2017,Criminal Conspiracy,Hazelwood
+1027,11398,21,F,B,2017,Criminal Conspiracy,Hazelwood
+1054,943,16,M,B,2016,Criminal Conspiracy,Hazelwood
+1128,5328,15,M,B,2017,Criminal Conspiracy,Hazelwood
+1237,5735,18,M,B,2017,Criminal Conspiracy,Hazelwood
+1271,14679,51,F,W,2017,Criminal Conspiracy,Hazelwood
+1274,14680,43,M,B,2017,Criminal Conspiracy,Hazelwood
+1298,11396,25,M,B,2017,Criminal Conspiracy,Hazelwood
+1301,11397,24,M,B,2017,Criminal Conspiracy,Hazelwood
+434,4082,25,M,B,2017,Criminal Mischief,Hazelwood
+116,8923,49,F,W,2017,Criminal Mischief,Hazelwood
+576,10051,36,M,B,2017,Criminal Mischief,Hazelwood
+798,11562,22,M,B,2017,Criminal Mischief,Hazelwood
+2,17814,45,M,B,2018,Criminal Mischief,Hazelwood
+1324,9813,22,M,B,2017,Criminal Mischief,Hazelwood
+978,14295,28,M,B,2017,Marijuana Possession,Hazelwood
+4,15917,23,M,B,2017,Marijuana Possession,Hazelwood
+90,18072,18,M,B,2018,Marijuana Possession,Hazelwood
+189,10405,23,M,B,2017,Marijuana Possession,Hazelwood
+730,5632,20,M,B,2017,Marijuana Possession,Hazelwood
+1153,12149,22,F,B,2017,Marijuana Possession,Hazelwood
+1296,19474,27,F,B,2018,Marijuana Possession,Hazelwood
+1337,19575,26,M,B,2018,Marijuana Possession,Hazelwood
+400,18838,34,M,B,2018,Marijuana Possession,Hazelwood
+353,9033,33,M,B,2017,Public Drunkenness,Hazelwood
+51,17870,27,M,B,2018,Public Drunkenness,Hazelwood
+106,10806,38,M,W,2017,Criminal Conspiracy,Highland Park
+115,2314,32,F,W,2016,Criminal Conspiracy,Highland Park
+637,11324,34,F,W,2017,Criminal Conspiracy,Highland Park
+797,17966,19,F,B,2018,Marijuana Possession,Highland Park
+1029,20976,25,M,B,2018,Marijuana Possession,Highland Park
+1096,22900,24,M,B,2018,Marijuana Possession,Highland Park
+1209,11106,34,M,W,2017,Marijuana Possession,Highland Park
+1059,21820,26,M,B,2018,Public Drunkenness,Highland Park
+151,18128,17,M,B,2018,Criminal Conspiracy,Homewood North
+716,101,25,M,B,2016,Criminal Conspiracy,Homewood North
+838,664,56,M,B,2016,Criminal Conspiracy,Homewood North
+17,1933,23,M,B,2016,Criminal Conspiracy,Homewood North
+1033,18129,22,M,B,2018,Criminal Conspiracy,Homewood North
+1058,4658,26,F,B,2017,Criminal Conspiracy,Homewood North
+1097,9087,16,F,B,2017,Criminal Conspiracy,Homewood North
+237,10926,24,F,B,2017,Criminal Mischief,Homewood North
+29,6120,63,F,B,2017,Forgery,Homewood North
+149,5910,63,M,B,2017,Marijuana Possession,Homewood North
+404,9626,16,U,B,2017,Marijuana Possession,Homewood North
+470,17136,17,M,B,2018,Marijuana Possession,Homewood North
+554,12689,42,M,B,2017,Marijuana Possession,Homewood North
+638,17510,34,M,B,2018,Marijuana Possession,Homewood North
+717,103,23,M,B,2016,Marijuana Possession,Homewood North
+747,215,27,M,B,2016,Marijuana Possession,Homewood North
+799,13158,18,M,B,2017,Marijuana Possession,Homewood North
+822,10233,15,M,B,2017,Marijuana Possession,Homewood North
+934,9325,53,M,B,2017,Marijuana Possession,Homewood North
+1006,18763,15,M,B,2018,Marijuana Possession,Homewood North
+1216,20818,21,F,B,2018,Marijuana Possession,Homewood North
+543,4026,27,M,B,2016,Criminal Mischief,Homewood North
+788,19763,29,M,B,2018,Criminal Conspiracy,Homewood North
+242,22708,61,F,B,2018,Public Drunkenness,Homewood North
+306,3145,15,M,B,2016,Criminal Conspiracy,Homewood South
+359,16876,64,F,B,2018,Criminal Conspiracy,Homewood South
+394,19491,30,F,B,2018,Criminal Conspiracy,Homewood South
+484,16852,19,M,B,2018,Criminal Conspiracy,Homewood South
+494,3065,15,M,B,2016,Criminal Conspiracy,Homewood South
+495,16874,24,M,B,2018,Criminal Conspiracy,Homewood South
+496,3066,15,M,B,2016,Criminal Conspiracy,Homewood South
+517,17349,38,M,B,2018,Criminal Conspiracy,Homewood South
+1256,21148,32,M,B,2018,Criminal Conspiracy,Homewood South
+1291,3366,16,M,B,2016,Criminal Conspiracy,Homewood South
+1322,19492,25,M,B,2018,Criminal Conspiracy,Homewood South
+433,3592,56,M,B,2016,Criminal Mischief,Homewood South
+901,3010,30,F,B,2016,Criminal Mischief,Homewood South
+918,8018,28,M,B,2017,Criminal Mischief,Homewood South
+923,9272,22,M,B,2017,Criminal Mischief,Homewood South
+1080,20693,51,M,B,2018,Criminal Mischief,Homewood South
+776,19729,27,M,B,2018,Marijuana Possession,Homewood South
+135,18099,48,F,B,2018,Marijuana Possession,Homewood South
+210,18284,27,F,B,2018,Marijuana Possession,Homewood South
+262,16355,27,F,B,2018,Marijuana Possession,Homewood South
+560,4100,24,M,B,2016,Marijuana Possession,Homewood South
+565,17395,66,M,B,2018,Marijuana Possession,Homewood South
+584,17084,25,M,B,2018,Marijuana Possession,Homewood South
+613,20896,19,M,B,2018,Marijuana Possession,Homewood South
+891,10130,25,F,B,2017,Marijuana Possession,Homewood South
+925,20350,23,F,B,2018,Marijuana Possession,Homewood South
+1057,10732,32,M,B,2017,Marijuana Possession,Homewood South
+1070,14020,54,M,B,2017,Marijuana Possession,Homewood South
+1147,9679,39,F,B,2017,Marijuana Possession,Homewood South
+1320,21373,23,F,B,2018,Marijuana Possession,Homewood South
+550,4050,34,M,B,2016,Criminal Mischief,Homewood South
+646,9155,41,F,B,2017,Criminal Mischief,Homewood South
+105,18037,31,M,B,2018,Criminal Conspiracy,Homewood West
+230,19112,22,F,B,2018,Criminal Conspiracy,Homewood West
+683,17291,17,F,B,2018,Criminal Conspiracy,Homewood West
+1309,1875,16,M,B,2016,Criminal Conspiracy,Homewood West
+661,19969,15,F,B,2018,Criminal Mischief,Homewood West
+1094,18477,51,M,B,2018,Criminal Mischief,Homewood West
+8,16612,15,M,B,2018,Marijuana Possession,Homewood West
+70,17977,26,M,B,2018,Marijuana Possession,Homewood West
+186,19005,15,M,B,2018,Marijuana Possession,Homewood West
+192,6030,14,F,B,2017,Marijuana Possession,Homewood West
+231,16238,17,M,B,2017,Marijuana Possession,Homewood West
+268,17047,15,M,B,2018,Marijuana Possession,Homewood West
+390,16611,15,F,B,2018,Marijuana Possession,Homewood West
+405,8391,16,M,B,2017,Marijuana Possession,Homewood West
+571,16615,17,F,B,2018,Marijuana Possession,Homewood West
+692,8814,17,M,B,2017,Marijuana Possession,Homewood West
+757,7827,16,M,B,2017,Marijuana Possession,Homewood West
+801,17976,29,F,B,2018,Marijuana Possession,Homewood West
+992,21535,16,M,B,2018,Marijuana Possession,Homewood West
+1041,18303,47,M,B,2018,Marijuana Possession,Homewood West
+1105,14137,16,M,B,2017,Marijuana Possession,Homewood West
+1192,20662,16,F,B,2018,Marijuana Possession,Homewood West
+1195,20665,15,M,B,2018,Marijuana Possession,Homewood West
+1202,17046,17,M,B,2018,Marijuana Possession,Homewood West
+1223,20779,13,F,W,2018,Marijuana Possession,Homewood West
+1253,17296,15,M,B,2018,Marijuana Possession,Homewood West
+1327,6029,14,M,B,2017,Marijuana Possession,Homewood West
+276,19234,14,M,B,2018,Criminal Conspiracy,Knoxville
+578,19233,14,M,B,2018,Criminal Conspiracy,Knoxville
+872,5175,12,M,B,2017,Criminal Conspiracy,Knoxville
+1042,5170,12,M,B,2017,Criminal Conspiracy,Knoxville
+1047,5172,12,M,B,2017,Criminal Conspiracy,Knoxville
+867,10511,45,M,B,2017,Criminal Mischief,Knoxville
+1132,10920,40,M,W,2017,Criminal Mischief,Knoxville
+879,13316,18,M,B,2017,Marijuana Possession,Knoxville
+1173,11549,18,M,B,2017,Marijuana Possession,Knoxville
+83,18599,20,F,W,2018,Marijuana Possession,Knoxville
+113,3869,28,M,B,2016,Marijuana Possession,Knoxville
+341,9334,31,F,B,2017,Marijuana Possession,Knoxville
+503,8961,27,M,B,2017,Marijuana Possession,Knoxville
+630,3406,37,M,B,2016,Marijuana Possession,Knoxville
+778,19732,28,M,B,2018,Marijuana Possession,Knoxville
+807,3756,48,F,W,2016,Marijuana Possession,Knoxville
+849,702,48,M,B,2016,Marijuana Possession,Knoxville
+1056,11591,18,M,B,2017,Marijuana Possession,Knoxville
+527,19695,20,F,B,2018,Marijuana Possession,Knoxville
+169,10876,35,F,W,2017,Public Drunkenness,Knoxville
+334,16473,51,M,W,2018,Public Drunkenness,Knoxville
+447,16710,27,M,H,2018,Public Drunkenness,Knoxville
+1016,13853,27,M,B,2017,Public Drunkenness,Knoxville
+1231,5683,44,F,W,2017,Public Drunkenness,Knoxville
+271,11301,26,F,B,2017,Marijuana Possession,Knoxville
+713,19584,23,M,B,2018,Criminal Conspiracy,Knoxville
+175,18217,19,M,B,2018,Criminal Conspiracy,Larimer
+379,18824,NA,M,B,2018,Criminal Conspiracy,Larimer
+380,18823,NA,M,B,2018,Criminal Conspiracy,Larimer
+521,19133,17,M,B,2018,Criminal Conspiracy,Larimer
+924,18218,19,M,B,2018,Criminal Conspiracy,Larimer
+1053,20651,17,M,B,2018,Criminal Conspiracy,Larimer
+1112,6203,33,M,B,2017,Criminal Mischief,Larimer
+520,17008,25,M,B,2018,Marijuana Possession,Larimer
+588,7248,33,M,B,2017,Marijuana Possession,Larimer
+1180,20590,36,M,B,2018,Marijuana Possession,Larimer
+1149,10940,13,M,B,2017,Criminal Mischief,Lincoln Place
+173,18209,32,F,W,2018,Criminal Conspiracy,Lincoln-Lemington-Belmar
+318,10979,40,F,W,2017,Criminal Conspiracy,Lincoln-Lemington-Belmar
+332,10992,23,M,B,2017,Criminal Conspiracy,Lincoln-Lemington-Belmar
+340,11987,44,F,W,2017,Criminal Conspiracy,Lincoln-Lemington-Belmar
+421,11378,33,U,B,2017,Criminal Conspiracy,Lincoln-Lemington-Belmar
+516,10978,32,M,W,2017,Criminal Conspiracy,Lincoln-Lemington-Belmar
+724,17413,31,F,W,2018,Criminal Conspiracy,Lincoln-Lemington-Belmar
+768,19706,39,M,B,2018,Criminal Conspiracy,Lincoln-Lemington-Belmar
+854,10505,33,M,B,2017,Criminal Conspiracy,Lincoln-Lemington-Belmar
+34,17837,15,F,B,2018,Criminal Conspiracy,Lincoln-Lemington-Belmar
+878,17835,15,F,B,2018,Criminal Conspiracy,Lincoln-Lemington-Belmar
+999,11986,44,M,W,2017,Criminal Conspiracy,Lincoln-Lemington-Belmar
+1121,17834,17,F,B,2018,Criminal Conspiracy,Lincoln-Lemington-Belmar
+1143,6252,33,M,B,2017,Criminal Conspiracy,Lincoln-Lemington-Belmar
+1169,20504,38,M,B,2018,Criminal Mischief,Lincoln-Lemington-Belmar
+1170,20511,38,M,B,2018,Criminal Mischief,Lincoln-Lemington-Belmar
+1151,5384,22,M,B,2017,Criminal Mischief,Lincoln-Lemington-Belmar
+1186,20611,32,M,B,2018,Criminal Mischief,Lincoln-Lemington-Belmar
+509,3930,31,F,B,2016,Public Drunkenness,Lincoln-Lemington-Belmar
+66,8720,23,M,B,2017,Marijuana Possession,Lincoln-Lemington-Belmar
+546,17403,34,M,B,2018,Marijuana Possession,Lincoln-Lemington-Belmar
+126,18083,42,F,B,2018,Criminal Conspiracy,Lower Lawrenceville
+505,3900,25,M,B,2016,Criminal Conspiracy,Lower Lawrenceville
+73,2115,57,F,B,2016,Criminal Conspiracy,Lower Lawrenceville
+84,8749,37,F,B,2017,Criminal Conspiracy,Lower Lawrenceville
+410,18872,39,M,W,2018,Criminal Mischief,Lower Lawrenceville
+14,1924,44,M,B,2016,Criminal Mischief,Lower Lawrenceville
+887,10535,36,M,W,2017,Criminal Mischief,Lower Lawrenceville
+482,2019,31,F,W,2016,Forgery,Lower Lawrenceville
+451,8719,20,M,O,2017,Marijuana Possession,Lower Lawrenceville
+652,17960,18,F,W,2018,Criminal Conspiracy,Manchester
+777,17702,20,M,W,2018,Criminal Conspiracy,Manchester
+784,9189,19,M,B,2017,Criminal Conspiracy,Manchester
+71,1053,44,M,W,2016,Criminal Mischief,Manchester
+152,4267,19,F,B,2017,Marijuana Possession,Manchester
+474,11101,26,M,B,2017,Marijuana Possession,Manchester
+514,20661,14,M,W,2018,Marijuana Possession,Manchester
+1220,15035,20,M,B,2017,Marijuana Possession,Manchester
+252,9158,38,M,B,2017,Public Drunkenness,Manchester
+143,10835,25,M,B,2017,Criminal Conspiracy,Marshall-Shadeland
+165,2428,19,M,W,2016,Criminal Conspiracy,Marshall-Shadeland
+180,16216,17,M,B,2017,Criminal Conspiracy,Marshall-Shadeland
+328,16461,19,M,B,2018,Criminal Conspiracy,Marshall-Shadeland
+330,16462,60,M,B,2018,Criminal Conspiracy,Marshall-Shadeland
+461,18993,16,M,B,2018,Criminal Conspiracy,Marshall-Shadeland
+639,19914,15,M,B,2018,Criminal Conspiracy,Marshall-Shadeland
+810,5354,57,M,B,2017,Criminal Conspiracy,Marshall-Shadeland
+811,19814,52,M,W,2018,Criminal Conspiracy,Marshall-Shadeland
+1171,5432,21,M,B,2017,Criminal Conspiracy,Marshall-Shadeland
+1172,5433,18,M,B,2017,Criminal Conspiracy,Marshall-Shadeland
+13,17816,60,M,B,2018,Criminal Conspiracy,Marshall-Shadeland
+26,17817,40,M,B,2018,Criminal Conspiracy,Marshall-Shadeland
+904,4746,19,M,B,2017,Criminal Conspiracy,Marshall-Shadeland
+905,4747,19,M,B,2017,Criminal Conspiracy,Marshall-Shadeland
+933,13532,39,M,W,2017,Criminal Conspiracy,Marshall-Shadeland
+971,4886,36,M,W,2017,Criminal Conspiracy,Marshall-Shadeland
+1187,4661,26,F,B,2017,Criminal Conspiracy,Marshall-Shadeland
+453,9808,30,F,B,2017,Criminal Mischief,Marshall-Shadeland
+880,20215,29,M,B,2018,Criminal Mischief,Marshall-Shadeland
+957,5360,57,M,B,2017,Criminal Mischief,Marshall-Shadeland
+1305,21052,58,M,B,2018,Forgery,Marshall-Shadeland
+146,22227,23,M,B,2018,Marijuana Possession,Marshall-Shadeland
+445,19242,21,M,B,2018,Marijuana Possession,Marshall-Shadeland
+452,18972,16,M,B,2018,Marijuana Possession,Marshall-Shadeland
+566,8985,25,F,B,2017,Marijuana Possession,Marshall-Shadeland
+892,18243,16,M,B,2018,Marijuana Possession,Marshall-Shadeland
+114,18067,24,M,B,2018,Public Drunkenness,Marshall-Shadeland
+737,4671,52,M,B,2016,Criminal Mischief,Marshall-Shadeland
+168,18206,28,M,B,2018,Criminal Conspiracy,Middle Hill
+170,2442,35,M,B,2016,Criminal Conspiracy,Middle Hill
+206,10896,36,M,B,2017,Criminal Conspiracy,Middle Hill
+207,10897,21,M,B,2017,Criminal Conspiracy,Middle Hill
+209,2556,43,M,B,2016,Criminal Conspiracy,Middle Hill
+287,2444,28,F,B,2016,Criminal Conspiracy,Middle Hill
+304,2561,24,F,B,2016,Criminal Conspiracy,Middle Hill
+463,17104,22,M,B,2018,Criminal Conspiracy,Middle Hill
+600,17105,24,M,B,2018,Criminal Conspiracy,Middle Hill
+675,15841,22,M,B,2017,Criminal Conspiracy,Middle Hill
+40,10020,21,M,B,2017,Criminal Conspiracy,Middle Hill
+1206,5564,36,M,B,2017,Criminal Conspiracy,Middle Hill
+1213,5566,37,F,B,2017,Criminal Conspiracy,Middle Hill
+131,11877,39,F,B,2017,Criminal Mischief,Middle Hill
+147,18111,55,M,B,2018,Criminal Mischief,Middle Hill
+465,8786,37,M,B,2017,Criminal Mischief,Middle Hill
+1144,8711,55,F,B,2017,Criminal Mischief,Middle Hill
+1306,12248,25,F,B,2017,Criminal Mischief,Middle Hill
+1317,14767,25,M,B,2017,Criminal Mischief,Middle Hill
+787,17416,43,F,B,2018,Forgery,Middle Hill
+617,11050,23,M,B,2017,Marijuana Possession,Middle Hill
+371,8385,22,M,B,2017,Marijuana Possession,Middle Hill
+669,9621,27,M,B,2017,Marijuana Possession,Middle Hill
+1067,22819,47,M,B,2018,Marijuana Possession,Middle Hill
+512,3089,68,M,B,2016,Public Drunkenness,Middle Hill
+42,17856,41,M,B,2018,Public Drunkenness,Middle Hill
+43,17858,26,M,B,2018,Public Drunkenness,Middle Hill
+708,5967,59,M,B,2017,Marijuana Possession,Middle Hill
+108,1882,23,M,B,2016,Criminal Mischief,Morningside
+483,15007,13,M,W,2017,Marijuana Possession,Mount Oliver
+1152,18710,14,M,B,2018,Marijuana Possession,Mount Oliver
+156,8921,40,M,B,2017,Criminal Conspiracy,Mount Washington
+373,18807,25,M,B,2018,Criminal Conspiracy,Mount Washington
+417,18887,33,F,W,2018,Criminal Conspiracy,Mount Washington
+597,19275,21,M,B,2018,Criminal Conspiracy,Mount Washington
+635,11289,21,M,B,2017,Criminal Conspiracy,Mount Washington
+667,19446,26,M,B,2018,Criminal Conspiracy,Mount Washington
+1201,18806,25,M,B,2018,Criminal Conspiracy,Mount Washington
+44,16578,56,M,B,2018,Criminal Conspiracy,Mount Washington
+88,16987,27,M,O,2018,Criminal Conspiracy,Mount Washington
+909,926,16,M,B,2016,Criminal Conspiracy,Mount Washington
+928,11880,23,F,W,2017,Criminal Conspiracy,Mount Washington
+987,9339,26,M,W,2017,Criminal Conspiracy,Mount Washington
+1002,18164,16,M,W,2018,Criminal Conspiracy,Mount Washington
+1008,18163,19,M,W,2018,Criminal Conspiracy,Mount Washington
+663,13541,22,M,B,2017,Criminal Mischief,Mount Washington
+377,14706,25,M,W,2017,Criminal Mischief,Mount Washington
+1139,3767,29,M,W,2016,Criminal Mischief,Mount Washington
+1150,5299,21,M,W,2017,Criminal Mischief,Mount Washington
+144,10861,24,M,W,2017,Marijuana Possession,Mount Washington
+236,22676,33,F,B,2018,Marijuana Possession,Mount Washington
+376,10766,26,M,B,2017,Marijuana Possession,Mount Washington
+428,8339,22,M,W,2017,Marijuana Possession,Mount Washington
+1046,8343,22,M,O,2017,Marijuana Possession,Mount Washington
+1194,16989,18,M,W,2018,Marijuana Possession,Mount Washington
+1205,9338,19,M,W,2017,Marijuana Possession,Mount Washington
+1261,11885,29,F,W,2017,Marijuana Possession,Mount Washington
+98,4204,26,M,B,2017,Public Drunkenness,Mount Washington
+241,11892,47,M,W,2017,Public Drunkenness,Mount Washington
+284,16379,46,M,W,2018,Public Drunkenness,Mount Washington
+310,9366,29,F,W,2017,Public Drunkenness,Mount Washington
+645,17243,44,M,W,2018,Public Drunkenness,Mount Washington
+648,19400,25,M,W,2018,Public Drunkenness,Mount Washington
+939,9367,29,M,W,2017,Public Drunkenness,Mount Washington
+1175,5403,26,M,W,2017,Public Drunkenness,Mount Washington
+1228,18182,39,M,W,2018,Public Drunkenness,Mount Washington
+458,2980,21,F,B,2016,Marijuana Possession,Mount Washington
+569,9171,26,M,W,2017,Criminal Mischief,Mount Washington
+586,4194,29,F,W,2017,Criminal Mischief,Mount Washington
+595,1472,22,M,B,2016,Criminal Mischief,Mount Washington
+102,16947,33,M,B,2018,Criminal Conspiracy,NA
+119,18906,11,M,B,2018,Criminal Conspiracy,NA
+204,2551,19,M,B,2016,Criminal Conspiracy,NA
+216,17117,16,M,B,2018,Criminal Conspiracy,NA
+301,2552,21,F,B,2016,Criminal Conspiracy,NA
+325,12312,19,M,B,2017,Criminal Conspiracy,NA
+366,17232,23,F,B,2018,Criminal Conspiracy,NA
+441,18957,21,M,W,2018,Criminal Conspiracy,NA
+605,17119,16,M,B,2018,Criminal Conspiracy,NA
+624,2594,15,F,B,2016,Criminal Conspiracy,NA
+689,19520,29,F,B,2018,Criminal Conspiracy,NA
+691,8802,14,M,W,2017,Criminal Conspiracy,NA
+694,19521,35,M,B,2018,Criminal Conspiracy,NA
+943,11898,35,F,B,2017,Criminal Conspiracy,NA
+1077,18428,36,F,W,2018,Criminal Conspiracy,NA
+1108,14181,22,M,B,2017,Criminal Conspiracy,NA
+1254,19327,21,M,B,2018,Criminal Conspiracy,NA
+1331,6042,20,M,B,2017,Criminal Conspiracy,NA
+107,18046,39,M,W,2018,Criminal Mischief,NA
+607,4164,23,F,B,2017,Criminal Mischief,NA
+761,19687,28,M,W,2018,Criminal Mischief,NA
+812,4559,58,M,W,2017,Criminal Mischief,NA
+991,19688,28,F,W,2018,Criminal Mischief,NA
+1084,19063,26,M,B,2018,Criminal Mischief,NA
+31,4115,15,M,B,2017,Marijuana Possession,NA
+358,16885,33,M,B,2018,Marijuana Possession,NA
+619,19990,17,M,W,2018,Marijuana Possession,NA
+721,17404,42,M,B,2018,Marijuana Possession,NA
+770,8380,26,M,W,2017,Marijuana Possession,NA
+906,21205,35,M,B,2018,Marijuana Possession,NA
+444,18960,34,F,W,2018,Public Drunkenness,NA
+738,8606,46,F,B,2017,Public Drunkenness,NA
+772,13795,45,F,W,2017,Public Drunkenness,NA
+806,4864,23,M,W,2017,Public Drunkenness,NA
+816,13915,18,M,B,2017,Public Drunkenness,NA
+835,4508,47,M,W,2017,Public Drunkenness,NA
+864,11771,66,M,W,2017,Public Drunkenness,NA
+1090,14103,29,M,W,2017,Public Drunkenness,NA
+1129,18743,23,M,W,2018,Public Drunkenness,NA
+69,17903,24,M,W,2018,Public Drunkenness,NA
+198,18267,27,F,B,2018,Marijuana Possession,NA
+383,12348,36,M,B,2017,Marijuana Possession,NA
+510,6763,23,M,W,2017,Public Drunkenness,NA
+585,4188,39,M,B,2017,Public Drunkenness,North Oakland
+1034,4426,53,M,B,2017,Public Drunkenness,North Oakland
+1092,5053,29,M,B,2017,Public Drunkenness,North Oakland
+117,4231,30,M,W,2017,Criminal Conspiracy,North Shore
+123,2338,34,M,W,2016,Criminal Conspiracy,North Shore
+127,2339,22,M,W,2016,Criminal Conspiracy,North Shore
+292,18541,27,M,W,2018,Criminal Conspiracy,North Shore
+640,4320,57,M,B,2017,Criminal Conspiracy,North Shore
+748,243,30,M,B,2016,Criminal Conspiracy,North Shore
+750,244,53,M,B,2016,Criminal Conspiracy,North Shore
+1017,18262,21,M,W,2018,Criminal Conspiracy,North Shore
+1018,18263,23,M,W,2018,Criminal Conspiracy,North Shore
+1045,20151,25,M,W,2018,Criminal Conspiracy,North Shore
+1255,4933,30,M,W,2017,Criminal Conspiracy,North Shore
+1289,4931,30,M,W,2017,Criminal Conspiracy,North Shore
+462,19009,46,M,W,2018,Criminal Mischief,North Shore
+813,4589,57,M,B,2017,Criminal Mischief,North Shore
+72,1439,37,M,W,2016,Criminal Mischief,North Shore
+1257,4936,30,M,W,2017,Criminal Mischief,North Shore
+843,19912,22,M,W,2018,Criminal Mischief,North Shore
+93,8790,33,M,B,2017,Marijuana Possession,North Shore
+141,1674,19,F,W,2016,Marijuana Possession,North Shore
+172,13116,37,M,W,2017,Marijuana Possession,North Shore
+261,19204,19,M,B,2018,Marijuana Possession,North Shore
+397,3478,27,M,W,2016,Marijuana Possession,North Shore
+411,157,38,M,W,2016,Marijuana Possession,North Shore
+426,2888,33,M,W,2016,Marijuana Possession,North Shore
+960,1020,54,M,B,2016,Marijuana Possession,North Shore
+977,16183,21,M,B,2017,Marijuana Possession,North Shore
+1095,16595,21,M,W,2018,Marijuana Possession,North Shore
+1241,3283,24,M,W,2016,Marijuana Possession,North Shore
+707,2475,21,M,W,2016,Public Drunkenness,North Shore
+163,580,32,M,W,2016,Public Drunkenness,North Shore
+191,16597,23,M,W,2018,Public Drunkenness,North Shore
+533,9018,23,M,W,2017,Public Drunkenness,North Shore
+534,3153,22,F,W,2016,Public Drunkenness,North Shore
+671,4458,24,M,W,2017,Public Drunkenness,North Shore
+714,13751,25,M,W,2017,Public Drunkenness,North Shore
+771,11515,20,M,W,2017,Public Drunkenness,North Shore
+900,18266,21,M,W,2018,Public Drunkenness,North Shore
+1004,1110,51,M,W,2016,Public Drunkenness,North Shore
+1177,20571,43,M,W,2018,Public Drunkenness,North Shore
+1183,11039,29,M,W,2017,Public Drunkenness,North Shore
+1290,5945,34,M,W,2017,Public Drunkenness,North Shore
+837,15745,31,M,B,2017,Criminal Conspiracy,North Shore
+314,946,25,M,B,2016,Public Drunkenness,North Shore
+345,3350,25,M,B,2016,Criminal Conspiracy,Northview Heights
+349,3351,27,M,B,2016,Criminal Conspiracy,Northview Heights
+350,3352,18,M,B,2016,Criminal Conspiracy,Northview Heights
+354,3355,28,M,B,2016,Criminal Conspiracy,Northview Heights
+621,3353,18,M,B,2016,Criminal Conspiracy,Northview Heights
+286,11323,20,F,B,2017,Criminal Mischief,Northview Heights
+732,8911,39,M,B,2017,Criminal Mischief,Northview Heights
+769,19715,30,F,B,2018,Criminal Mischief,Northview Heights
+35,17848,27,M,B,2018,Marijuana Possession,Northview Heights
+1158,18003,25,M,B,2018,Marijuana Possession,Northview Heights
+779,10079,21,F,B,2017,Forgery,Oakwood
+92,2216,43,M,B,2016,Criminal Conspiracy,Outside City
+217,2217,36,M,B,2016,Criminal Conspiracy,Outside City
+972,1138,25,M,B,2016,Criminal Conspiracy,Outside City
+370,6646,46,M,B,2017,Marijuana Possession,Outside City
+643,8723,26,M,B,2017,Marijuana Possession,Outside City
+94,18009,19,M,B,2018,Criminal Conspiracy,Outside State
+100,18010,19,M,B,2018,Criminal Conspiracy,Outside State
+110,18060,18,M,B,2018,Criminal Conspiracy,Outside State
+89,17964,19,M,B,2018,Criminal Conspiracy,Outside State
+946,18007,20,F,B,2018,Criminal Conspiracy,Outside State
+961,9478,20,M,B,2017,Criminal Conspiracy,Outside State
+557,3248,23,F,W,2016,Criminal Conspiracy,Overbrook
+25,13713,14,M,W,2017,Criminal Conspiracy,Overbrook
+866,4644,19,M,B,2016,Criminal Conspiracy,Overbrook
+926,10691,20,M,W,2017,Criminal Conspiracy,Overbrook
+1020,10690,23,M,W,2017,Criminal Conspiracy,Overbrook
+997,5023,47,F,W,2017,Public Drunkenness,Overbrook
+182,2499,35,F,B,2016,Criminal Conspiracy,Perry North
+413,16654,17,M,B,2018,Criminal Conspiracy,Perry North
+416,16655,16,F,B,2018,Criminal Conspiracy,Perry North
+989,10955,16,M,B,2017,Criminal Conspiracy,Perry North
+1159,10954,15,M,B,2017,Criminal Conspiracy,Perry North
+120,7689,20,F,B,2017,Criminal Mischief,Perry North
+45,8663,26,F,B,2017,Criminal Mischief,Perry North
+402,2815,23,M,B,2016,Marijuana Possession,Perry North
+464,3723,15,M,B,2016,Marijuana Possession,Perry North
+544,19150,17,F,B,2018,Marijuana Possession,Perry North
+733,17932,17,M,O,2018,Marijuana Possession,Perry North
+795,5322,15,M,B,2017,Marijuana Possession,Perry North
+964,12995,15,M,W,2017,Marijuana Possession,Perry North
+1011,18240,16,M,B,2018,Marijuana Possession,Perry North
+1063,11210,19,M,W,2017,Marijuana Possession,Perry North
+1203,18496,17,M,B,2018,Marijuana Possession,Perry North
+1218,20850,15,M,B,2018,Marijuana Possession,Perry North
+868,9323,16,F,B,2017,Public Drunkenness,Perry North
+302,16485,23,M,B,2018,Marijuana Possession,Perry North
+311,18632,20,F,B,2018,Criminal Conspiracy,Perry South
+317,18633,23,M,B,2018,Criminal Conspiracy,Perry South
+448,11685,45,M,B,2017,Criminal Conspiracy,Perry South
+568,4137,28,M,B,2016,Criminal Conspiracy,Perry South
+572,4138,30,M,B,2016,Criminal Conspiracy,Perry South
+631,19367,34,M,B,2018,Criminal Conspiracy,Perry South
+744,4690,21,M,B,2017,Criminal Conspiracy,Perry South
+1066,20185,26,M,B,2018,Criminal Conspiracy,Perry South
+1133,18634,21,M,B,2018,Criminal Conspiracy,Perry South
+220,2596,11,M,B,2016,Criminal Mischief,Perry South
+1190,8624,23,M,B,2017,Criminal Mischief,Perry South
+1242,14624,34,F,B,2017,Criminal Mischief,Perry South
+456,11067,31,M,B,2017,Marijuana Possession,Perry South
+532,19701,21,M,B,2018,Marijuana Possession,Perry South
+579,19238,14,F,B,2018,Marijuana Possession,Perry South
+391,2790,37,M,B,2016,Criminal Conspiracy,Point Breeze
+697,11850,24,F,W,2017,Criminal Mischief,Point Breeze
+844,13247,23,M,W,2017,Criminal Mischief,Point Breeze
+985,3527,50,M,B,2016,Public Drunkenness,Point Breeze
+1049,18315,33,M,B,2018,Public Drunkenness,Point Breeze
+1111,5319,50,M,B,2017,Public Drunkenness,Point Breeze
+882,4682,NA,M,B,2016,Criminal Conspiracy,Point Breeze North
+903,4752,NA,M,B,2016,Criminal Conspiracy,Point Breeze North
+1259,21155,27,F,B,2018,Criminal Mischief,Point Breeze North
+709,19566,38,M,W,2018,Criminal Mischief,Polish Hill
+436,19231,14,M,B,2018,Criminal Mischief,Regent Square
+133,16779,45,F,B,2018,Criminal Conspiracy,Shadyside
+134,2381,17,F,B,2016,Criminal Conspiracy,Shadyside
+137,2380,26,F,B,2016,Criminal Conspiracy,Shadyside
+523,9932,50,F,B,2017,Criminal Conspiracy,Shadyside
+574,17590,28,M,W,2018,Criminal Conspiracy,Shadyside
+58,2086,17,F,B,2016,Criminal Conspiracy,Shadyside
+1127,20342,22,M,B,2018,Criminal Conspiracy,Shadyside
+1116,18591,43,F,W,2018,Forgery,Shadyside
+1329,18910,20,M,W,2018,Marijuana Possession,Shadyside
+385,11010,46,M,B,2017,Public Drunkenness,Shadyside
+176,22527,27,M,W,2018,Public Drunkenness,Shadyside
+966,11932,22,F,W,2017,Public Drunkenness,Shadyside
+982,4200,25,F,B,2017,Public Drunkenness,Shadyside
+1284,1805,26,M,W,2016,Public Drunkenness,Shadyside
+1300,6078,30,M,U,2017,Public Drunkenness,Shadyside
+348,16527,34,M,W,2018,Public Drunkenness,Shadyside
+281,2894,42,F,B,2016,Criminal Conspiracy,Sheraden
+282,2895,26,F,B,2016,Criminal Conspiracy,Sheraden
+326,19326,15,M,B,2018,Criminal Conspiracy,Sheraden
+629,17128,14,M,B,2018,Criminal Conspiracy,Sheraden
+658,4411,13,M,B,2017,Criminal Conspiracy,Sheraden
+679,10247,36,M,B,2017,Criminal Conspiracy,Sheraden
+781,17715,26,M,B,2018,Criminal Conspiracy,Sheraden
+1140,20397,41,M,W,2018,Criminal Conspiracy,Sheraden
+67,16212,28,M,B,2017,Criminal Conspiracy,Sheraden
+935,13545,24,M,B,2017,Criminal Conspiracy,Sheraden
+1039,5155,24,F,B,2017,Criminal Conspiracy,Sheraden
+1115,5154,26,M,B,2017,Criminal Conspiracy,Sheraden
+150,7818,20,M,B,2017,Criminal Mischief,Sheraden
+1119,6222,35,F,W,2017,Criminal Mischief,Sheraden
+1142,18694,16,M,B,2018,Forgery,Sheraden
+5,18712,20,M,B,2018,Marijuana Possession,Sheraden
+205,3580,20,F,B,2016,Marijuana Possession,Sheraden
+238,11239,12,M,B,2017,Marijuana Possession,Sheraden
+608,11237,14,M,B,2017,Marijuana Possession,Sheraden
+678,19498,25,F,B,2018,Marijuana Possession,Sheraden
+735,4412,14,M,B,2017,Marijuana Possession,Sheraden
+881,9359,26,M,B,2017,Marijuana Possession,Sheraden
+1295,18255,26,M,B,2018,Marijuana Possession,Sheraden
+255,2772,23,F,B,2016,Marijuana Possession,Sheraden
+303,16390,17,M,B,2017,Criminal Conspiracy,South Oakland
+990,4062,15,M,B,2017,Criminal Conspiracy,South Oakland
+1031,5144,19,M,B,2017,Criminal Conspiracy,South Oakland
+243,7215,57,M,B,2017,Criminal Mischief,South Oakland
+789,10106,18,M,B,2017,Criminal Mischief,South Oakland
+817,9255,22,M,W,2017,Criminal Mischief,South Oakland
+865,19258,19,M,W,2018,Marijuana Possession,South Oakland
+711,3618,35,F,O,2016,Public Drunkenness,South Oakland
+917,17905,22,M,B,2018,Public Drunkenness,South Oakland
+62,10748,24,F,B,2017,Criminal Conspiracy,South Shore
+64,10749,36,M,B,2017,Criminal Conspiracy,South Shore
+913,13386,22,F,B,2017,Marijuana Possession,South Shore
+308,17076,37,M,W,2018,Public Drunkenness,South Shore
+859,4611,24,M,W,2017,Public Drunkenness,South Shore
+109,18059,24,M,B,2018,Criminal Conspiracy,South Side Flats
+158,16851,26,M,B,2018,Criminal Conspiracy,South Side Flats
+285,18514,26,M,W,2018,Criminal Conspiracy,South Side Flats
+288,18515,31,M,B,2018,Criminal Conspiracy,South Side Flats
+363,7745,42,M,W,2017,Criminal Conspiracy,South Side Flats
+418,10808,NA,M,W,2017,Criminal Conspiracy,South Side Flats
+430,16844,36,F,W,2018,Criminal Conspiracy,South Side Flats
+502,16923,22,F,B,2018,Criminal Conspiracy,South Side Flats
+38,15956,28,F,B,2017,Criminal Conspiracy,South Side Flats
+53,17874,19,M,W,2018,Criminal Conspiracy,South Side Flats
+75,7742,46,M,W,2017,Criminal Conspiracy,South Side Flats
+81,10807,NA,M,W,2017,Criminal Conspiracy,South Side Flats
+86,16057,23,M,B,2017,Criminal Conspiracy,South Side Flats
+856,19919,26,F,B,2018,Criminal Conspiracy,South Side Flats
+860,19920,33,F,B,2018,Criminal Conspiracy,South Side Flats
+875,13295,26,M,B,2017,Criminal Conspiracy,South Side Flats
+883,18197,31,F,W,2018,Criminal Conspiracy,South Side Flats
+944,6588,22,M,B,2017,Criminal Conspiracy,South Side Flats
+1005,5062,25,M,W,2017,Criminal Conspiracy,South Side Flats
+1071,5240,23,M,W,2017,Criminal Conspiracy,South Side Flats
+1123,20324,26,F,B,2018,Criminal Conspiracy,South Side Flats
+1245,14635,25,M,B,2017,Criminal Conspiracy,South Side Flats
+1303,5061,25,M,W,2017,Criminal Conspiracy,South Side Flats
+1314,21338,36,M,B,2018,Criminal Conspiracy,South Side Flats
+125,3595,54,M,B,2016,Criminal Mischief,South Side Flats
+412,19174,52,M,B,2018,Criminal Mischief,South Side Flats
+504,3897,22,M,B,2017,Criminal Mischief,South Side Flats
+518,3944,30,M,B,2016,Criminal Mischief,South Side Flats
+558,19194,35,M,W,2018,Criminal Mischief,South Side Flats
+636,22922,51,M,B,2018,Criminal Mischief,South Side Flats
+809,16474,25,M,B,2018,Criminal Mischief,South Side Flats
+23,10711,35,F,W,2017,Criminal Mischief,South Side Flats
+39,17851,28,M,B,2018,Criminal Mischief,South Side Flats
+954,10597,24,M,B,2017,Criminal Mischief,South Side Flats
+965,11927,21,M,W,2017,Criminal Mischief,South Side Flats
+998,1226,20,F,B,2016,Criminal Mischief,South Side Flats
+1021,4388,21,M,W,2017,Criminal Mischief,South Side Flats
+352,3829,29,F,W,2016,Public Drunkenness,South Side Flats
+751,8899,43,F,W,2017,Forgery,South Side Flats
+725,169,33,M,W,2016,Public Drunkenness,South Side Flats
+907,17868,33,F,B,2018,Marijuana Possession,South Side Flats
+24,18738,19,F,W,2018,Marijuana Possession,South Side Flats
+49,5636,20,M,W,2017,Marijuana Possession,South Side Flats
+68,17902,27,M,B,2018,Marijuana Possession,South Side Flats
+112,5539,26,F,W,2017,Marijuana Possession,South Side Flats
+218,2227,24,M,W,2016,Marijuana Possession,South Side Flats
+294,18551,24,M,B,2018,Marijuana Possession,South Side Flats
+319,3214,35,M,W,2016,Marijuana Possession,South Side Flats
+481,11108,18,M,B,2017,Marijuana Possession,South Side Flats
+552,9105,24,M,W,2017,Marijuana Possession,South Side Flats
+685,12561,21,M,B,2017,Marijuana Possession,South Side Flats
+696,11081,24,M,B,2017,Marijuana Possession,South Side Flats
+796,8439,22,M,B,2017,Marijuana Possession,South Side Flats
+1072,12562,22,M,B,2017,Marijuana Possession,South Side Flats
+1081,9676,24,M,B,2017,Marijuana Possession,South Side Flats
+1099,12061,25,M,B,2017,Marijuana Possession,South Side Flats
+1124,14210,63,M,B,2017,Marijuana Possession,South Side Flats
+1165,13350,18,M,B,2017,Marijuana Possession,South Side Flats
+1285,9449,23,M,B,2017,Marijuana Possession,South Side Flats
+1292,21267,31,M,B,2018,Marijuana Possession,South Side Flats
+1336,18929,29,M,B,2018,Marijuana Possession,South Side Flats
+178,2116,56,M,B,2016,Public Drunkenness,South Side Flats
+477,1219,24,M,O,2016,Public Drunkenness,South Side Flats
+782,19742,21,F,B,2018,Public Drunkenness,South Side Flats
+111,12199,42,M,W,2017,Public Drunkenness,South Side Flats
+157,18162,37,F,W,2018,Public Drunkenness,South Side Flats
+181,10880,21,M,W,2017,Public Drunkenness,South Side Flats
+249,2356,21,M,B,2016,Public Drunkenness,South Side Flats
+257,10941,23,M,B,2017,Public Drunkenness,South Side Flats
+329,2638,24,M,B,2016,Public Drunkenness,South Side Flats
+338,9427,22,M,B,2017,Public Drunkenness,South Side Flats
+347,11195,24,F,O,2017,Public Drunkenness,South Side Flats
+361,6673,38,M,B,2017,Public Drunkenness,South Side Flats
+419,3552,57,M,W,2016,Public Drunkenness,South Side Flats
+435,3606,22,M,B,2016,Public Drunkenness,South Side Flats
+446,16709,27,M,W,2018,Public Drunkenness,South Side Flats
+480,3786,33,M,B,2016,Public Drunkenness,South Side Flats
+553,3784,27,F,W,2016,Public Drunkenness,South Side Flats
+599,19285,35,M,W,2018,Public Drunkenness,South Side Flats
+611,12470,51,M,W,2017,Public Drunkenness,South Side Flats
+623,9428,22,F,W,2017,Public Drunkenness,South Side Flats
+653,4201,24,M,W,2017,Public Drunkenness,South Side Flats
+699,5542,69,M,W,2017,Public Drunkenness,South Side Flats
+740,8871,35,M,W,2017,Public Drunkenness,South Side Flats
+819,11629,22,M,W,2017,Public Drunkenness,South Side Flats
+885,5255,36,M,W,2017,Public Drunkenness,South Side Flats
+936,17945,21,M,W,2018,Public Drunkenness,South Side Flats
+948,4855,21,F,W,2017,Public Drunkenness,South Side Flats
+950,4863,22,M,W,2017,Public Drunkenness,South Side Flats
+953,6081,21,M,W,2017,Public Drunkenness,South Side Flats
+958,8086,31,M,W,2017,Public Drunkenness,South Side Flats
+1009,18774,26,M,B,2018,Public Drunkenness,South Side Flats
+1050,4901,70,M,W,2017,Public Drunkenness,South Side Flats
+1079,1220,27,M,W,2016,Public Drunkenness,South Side Flats
+1093,20258,21,M,W,2018,Public Drunkenness,South Side Flats
+1100,12082,26,M,B,2017,Public Drunkenness,South Side Flats
+1136,5375,42,M,U,2017,Public Drunkenness,South Side Flats
+1162,5419,26,M,W,2017,Public Drunkenness,South Side Flats
+1164,5426,69,M,W,2017,Public Drunkenness,South Side Flats
+1334,21423,25,M,B,2018,Public Drunkenness,South Side Flats
+6,1893,37,M,B,2016,Public Drunkenness,South Side Flats
+369,4577,69,M,W,2017,Public Drunkenness,South Side Flats
+1184,9607,38,M,W,2017,Public Drunkenness,South Side Flats
+1222,5643,25,F,W,2017,Public Drunkenness,South Side Flats
+1232,5692,30,M,W,2017,Public Drunkenness,South Side Flats
+1236,6131,33,M,W,2017,Public Drunkenness,South Side Flats
+1239,3367,22,M,O,2016,Public Drunkenness,South Side Flats
+1263,18845,23,M,W,2018,Public Drunkenness,South Side Flats
+1280,5888,24,M,W,2017,Public Drunkenness,South Side Flats
+1304,1449,45,M,W,2016,Public Drunkenness,South Side Flats
+265,18465,52,M,B,2018,Forgery,South Side Flats
+491,19061,26,M,B,2018,Criminal Mischief,South Side Flats
+506,16984,19,F,B,2018,Criminal Mischief,South Side Flats
+606,17125,35,M,W,2018,Criminal Mischief,South Side Flats
+687,9677,28,M,B,2017,Criminal Conspiracy,South Side Flats
+327,16452,40,F,W,2018,Criminal Conspiracy,South Side Slopes
+466,14910,52,M,B,2017,Criminal Conspiracy,South Side Slopes
+479,19043,21,M,B,2018,Criminal Conspiracy,South Side Slopes
+594,4131,40,M,O,2017,Criminal Conspiracy,South Side Slopes
+805,19803,53,M,B,2018,Criminal Conspiracy,South Side Slopes
+823,19865,31,M,B,2018,Criminal Conspiracy,South Side Slopes
+963,11916,24,M,B,2017,Criminal Conspiracy,South Side Slopes
+1012,5087,19,M,W,2017,Criminal Conspiracy,South Side Slopes
+1318,19017,20,M,B,2018,Criminal Conspiracy,South Side Slopes
+1319,5088,19,F,W,2017,Criminal Conspiracy,South Side Slopes
+649,19398,21,M,B,2018,Criminal Mischief,South Side Slopes
+36,1987,27,M,B,2016,Criminal Mischief,South Side Slopes
+374,16572,53,M,B,2018,Criminal Mischief,South Side Slopes
+951,18735,28,F,W,2018,Criminal Mischief,South Side Slopes
+548,9999,28,M,W,2017,Marijuana Possession,South Side Slopes
+986,18678,19,F,W,2018,Marijuana Possession,South Side Slopes
+1233,18210,21,M,B,2018,Marijuana Possession,South Side Slopes
+1286,18819,53,M,B,2018,Marijuana Possession,South Side Slopes
+414,18882,43,M,W,2018,Forgery,South Side Slopes
+139,2384,47,M,W,2016,Marijuana Possession,South Side Slopes
+201,22611,30,F,W,2018,Criminal Conspiracy,Spring Garden
+642,4376,22,F,W,2017,Criminal Conspiracy,Spring Garden
+981,4920,39,M,W,2017,Criminal Mischief,Spring Garden
+199,2546,17,M,B,2016,Criminal Conspiracy,Spring Hill-City View
+202,2547,17,M,B,2016,Criminal Conspiracy,Spring Hill-City View
+256,8111,18,M,O,2017,Criminal Conspiracy,Spring Hill-City View
+300,8165,18,M,O,2017,Criminal Conspiracy,Spring Hill-City View
+382,3425,16,M,B,2016,Criminal Conspiracy,Spring Hill-City View
+415,3532,16,M,B,2016,Criminal Conspiracy,Spring Hill-City View
+743,8028,15,M,B,2017,Criminal Conspiracy,Spring Hill-City View
+21,8164,18,M,W,2017,Criminal Conspiracy,Spring Hill-City View
+1191,20650,14,M,B,2018,Criminal Conspiracy,Spring Hill-City View
+1315,9800,23,F,W,2017,Criminal Conspiracy,Spring Hill-City View
+155,18141,24,F,B,2018,Criminal Mischief,Spring Hill-City View
+857,5090,55,F,W,2017,Criminal Mischief,Spring Hill-City View
+1278,11339,26,M,B,2017,Criminal Mischief,Spring Hill-City View
+1043,11157,18,M,B,2017,Forgery,Spring Hill-City View
+828,11640,32,M,B,2017,Public Drunkenness,Spring Hill-City View
+573,17485,21,M,B,2018,Marijuana Possession,Spring Hill-City View
+1025,1163,29,F,B,2016,Marijuana Possession,Spring Hill-City View
+1321,17484,22,M,B,2018,Marijuana Possession,Spring Hill-City View
+976,4185,22,M,W,2017,Public Drunkenness,Spring Hill-City View
+299,3074,21,M,B,2016,Marijuana Possession,Spring Hill-City View
+1104,22908,28,M,B,2018,Criminal Mischief,Spring Hill-City View
+628,17173,34,F,W,2018,Criminal Conspiracy,Squirrel Hill North
+78,2157,55,M,W,2016,Criminal Mischief,Squirrel Hill North
+393,16617,14,M,B,2018,Criminal Conspiracy,Squirrel Hill South
+398,16618,14,M,B,2018,Criminal Conspiracy,Squirrel Hill South
+455,18979,16,M,B,2018,Criminal Conspiracy,Squirrel Hill South
+826,19875,17,M,B,2018,Criminal Conspiracy,Squirrel Hill South
+1082,18980,15,M,B,2018,Criminal Conspiracy,Squirrel Hill South
+406,3506,25,M,B,2016,Forgery,Squirrel Hill South
+57,16651,41,F,W,2018,Forgery,Squirrel Hill South
+612,17141,29,F,B,2018,Forgery,Squirrel Hill South
+1088,14072,51,M,B,2017,Forgery,Squirrel Hill South
+188,7098,17,M,B,2017,Marijuana Possession,Squirrel Hill South
+278,19236,17,M,B,2018,Marijuana Possession,Squirrel Hill South
+336,17138,17,F,W,2018,Marijuana Possession,Squirrel Hill South
+513,19908,14,F,B,2018,Marijuana Possession,Squirrel Hill South
+580,17072,20,F,W,2018,Marijuana Possession,Squirrel Hill South
+602,17109,17,M,B,2018,Marijuana Possession,Squirrel Hill South
+702,4366,15,M,B,2017,Marijuana Possession,Squirrel Hill South
+808,17563,15,M,H,2018,Marijuana Possession,Squirrel Hill South
+888,19995,15,M,H,2018,Marijuana Possession,Squirrel Hill South
+932,17929,16,M,B,2018,Marijuana Possession,Squirrel Hill South
+938,14122,15,M,B,2017,Marijuana Possession,Squirrel Hill South
+1294,5955,14,F,W,2017,Marijuana Possession,Squirrel Hill South
+309,18619,23,M,B,2018,Public Drunkenness,Squirrel Hill South
+74,16702,23,M,B,2018,Public Drunkenness,Squirrel Hill South
+1226,5667,24,M,W,2017,Public Drunkenness,Squirrel Hill South
+634,11280,65,M,B,2017,Criminal Mischief,Squirrel Hill South
+247,2743,23,M,B,2016,Criminal Conspiracy,Stanton Heights
+915,9419,22,M,B,2017,Criminal Conspiracy,Stanton Heights
+930,17922,15,M,O,2018,Criminal Conspiracy,Stanton Heights
+1007,5073,22,M,B,2017,Criminal Conspiracy,Stanton Heights
+203,18280,18,M,W,2018,Marijuana Possession,Stanton Heights
+315,12261,18,M,B,2017,Marijuana Possession,Stanton Heights
+1068,11226,24,F,B,2017,Criminal Mischief,Strip District
+1023,20135,24,M,B,2018,Marijuana Possession,Strip District
+1076,14043,45,M,H,2017,Public Drunkenness,Strip District
+673,19459,25,F,B,2018,Criminal Mischief,Strip District
+674,19461,25,F,B,2018,Criminal Mischief,Strip District
+1244,14896,21,M,B,2017,Marijuana Possession,Swisshelm Park
+1089,5286,18,M,B,2017,Criminal Conspiracy,Terrace Village
+30,1984,18,M,B,2016,Marijuana Possession,Terrace Village
+1146,5383,25,M,B,2017,Marijuana Possession,Terrace Village
+1264,4092,51,M,B,2016,Public Drunkenness,Terrace Village
+91,1777,30,M,B,2016,Criminal Conspiracy,Troy Hill
+690,7771,31,M,W,2017,Criminal Conspiracy,Troy Hill
+853,17668,28,M,W,2018,Criminal Conspiracy,Troy Hill
+3,1880,27,M,W,2016,Criminal Mischief,Troy Hill
+1282,1435,43,F,W,2016,Forgery,Troy Hill
+295,2494,27,M,W,2016,Public Drunkenness,Troy Hill
+280,2885,29,M,B,2016,Criminal Conspiracy,Upper Hill
+507,19119,20,M,B,2018,Criminal Conspiracy,Upper Hill
+471,3754,23,M,B,2016,Criminal Mischief,Upper Hill
+27,11318,50,M,B,2017,Forgery,Upper Hill
+910,19532,33,F,B,2018,Marijuana Possession,Upper Hill
+365,8374,17,M,O,2017,Marijuana Possession,Upper Hill
+422,17045,17,M,B,2018,Marijuana Possession,Upper Hill
+831,15568,15,M,B,2017,Marijuana Possession,Upper Hill
+894,21503,16,M,W,2018,Marijuana Possession,Upper Hill
+1166,14403,14,M,B,2017,Marijuana Possession,Upper Hill
+283,9215,38,M,B,2017,Marijuana Possession,Upper Hill
+487,19678,34,U,B,2018,Criminal Conspiracy,Upper Lawrenceville
+758,19679,29,M,B,2018,Criminal Conspiracy,Upper Lawrenceville
+179,8974,31,M,B,2017,Marijuana Possession,Upper Lawrenceville
+171,16866,59,M,W,2018,Public Drunkenness,Upper Lawrenceville
+122,2336,28,M,B,2016,Criminal Conspiracy,West End
+159,2401,28,M,B,2016,Criminal Conspiracy,West End
+160,2402,32,F,B,2016,Criminal Conspiracy,West End
+274,2403,16,M,B,2016,Criminal Conspiracy,West End
+1243,21061,42,M,B,2018,Criminal Conspiracy,West End
+980,18625,27,M,B,2018,Marijuana Possession,West End
+384,16599,21,M,B,2018,Criminal Conspiracy,West Oakland
+676,11379,23,M,B,2017,Marijuana Possession,West Oakland
+575,4152,37,M,B,2016,Criminal Conspiracy,Windgap
+603,4153,36,M,B,2016,Criminal Conspiracy,Windgap
+718,4619,27,F,B,2014,Criminal Conspiracy,Windgap
+1137,4621,30,M,B,2014,Criminal Conspiracy,Windgap
+77,11389,16,M,B,2017,Criminal Conspiracy,Windgap
+1235,20989,29,M,B,2018,Criminal Conspiracy,Windgap
+1297,11388,16,M,B,2017,Criminal Conspiracy,Windgap
