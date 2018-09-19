@@ -8,8 +8,7 @@ library(shinythemes)
 library(stringr)
 
 # I had to move this file to the directory the app was in for it to load and change the
-hw2dat <- read.csv("CleanPittArressts.csv")
-arrests.load <- hw2dat # %>% 
+arrests.load <- read.csv("CleanPittArressts.csv")
 # The above above was breaking things.One of the first reasons your app wasn't working
 
 pdf(NULL)
@@ -48,7 +47,7 @@ ui <- navbarPage("Pittsburgh Arrests",
                               mainPanel(
                                 plotlyOutput("Neighborhoodsplot"),
                                 plotlyOutput("Raceplot"),
-                                plotlyOutput("Ageplot")
+                                plotlyOutput("plot")
                                
                                           )
                               )
@@ -70,16 +69,12 @@ server <- function(input, output, session = session) {
       filter(Age >= input$ageSelect[1] & Age <= input$ageSelect[2])
       
 # Neighborhood Filter
-    if (length(input$NeighborhoodsSelect) > 0 ) {
+    if (length(input$NeighborhoodSelect) > 0 ) {
     # If the neighborhood select is zero, you end up calling a variable that doesn't exist. Unlike other instances in R, in Shiny we want to keep overwriting the object because of issues like this.
-    arrrests <- subset(arrests, Neighborhood %in% input$NeighborhoodSelect)
+    arrests <- subset(arrests, Neighborhood %in% input$NeighborhoodSelect)
   }
                               
     return(arrests)
-})
-# Reactive data
-PAInput <- reactive({
-      PInput() #%>% pipes are only needed if you're doing something
 })
 # Neighbrohood Plot
 output$Neighborhoodsplot <- renderPlotly({
@@ -107,7 +102,7 @@ output$plot <- renderPlotly({
 # Data Table
 output$table <- DT::renderDataTable({
   # This isn't tied to the reactive data
-  (hw2dat)
+  PInput()
 })
 # Updating the URL Bar
       observe({
@@ -123,14 +118,14 @@ output$table <- DT::renderDataTable({
       paste("Pittarrests-data-", Sys.Date(), ".csv", sep="")
 },
       content = function(file) {
-      write.csv(swInput(), file)
+      write.csv(PInput(), file)
 }
   ) 
 # Reset Filter Data
 observeEvent(input$reset, {
       updateSelectInput(session, "NeighborhoodsSelect", selected = c("Central Business District", "Shadyside", "North Shore"))
       updateSelectInput(session, "RaceSelect", selected = "White")
-      updateSliderInput(session, "AgeSelect", value = c(min(hw2dat$Age, na.rm = T), max(hw2dat$Age, na.rm = T)))
+      updateSliderInput(session, "AgeSelect", value = c(min(arrests.load$Age, na.rm = T), max(arrests.load$Age, na.rm = T)))
       showNotification("You have successfully reset the filters", type = "message")
     })
 }
