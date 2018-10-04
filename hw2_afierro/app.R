@@ -6,10 +6,29 @@ library(dplyr)
 library(plotly)
 library(shinythemes)
 library(stringr)
+library(httr)
+library(jsonlite)
+library(htmltools)
 
-# I had to move this file to the directory the app was in for it to load and change the
-arrests.load <- read.csv("CleanPittArressts.csv")
-# The above above was breaking things.One of the first reasons your app wasn't working
+ckanSQL <- function(url) {
+  # Make the Request
+  r <- GET(url)
+  # Extract Content
+  c <- content(r, "text")
+  # Basic gsub to make NA's consistent with R
+  json <- gsub('NaN', 'NA', c, perl = TRUE)
+  # Create Dataframe
+  data.frame(jsonlite::fromJSON(json)$result$records)
+}
+
+# Unique values for Resource Field
+ckanUniques <- function(id, field) {
+  url <- paste0("https://data.wprdc.org/api/action/datastore_search_sql?sql=SELECT%20DISTINCT(%22", field, "%22)%20from%20%22", id, "%22")
+  c(ckanSQL(URLencode(url)))
+}
+
+races <- sort(ckanUniques("e03a89dd-134a-4ee8-a2bd-62c40aeebc6f", "INCIDENTNEIGHBORHOOD")$INCIDENTNEIGHBORHOOD)
+neighborhoods <- sort(ckanUniques("e03a89dd-134a-4ee8-a2bd-62c40aeebc6f", "RACE")$RACE)
 
 pdf(NULL)
 
