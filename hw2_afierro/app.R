@@ -84,9 +84,7 @@ output$Neighborhoodsplot <- renderPlotly({
 })
 # Race Plot
 output$Raceplot <- renderPlotly({
-  # You called it dat but then called dat.race, be consistent with your naming of objects
   dat.race <- PInput()
-  # Race2 isn't a column, changed it to Race
   ggplot(data = dat.race, aes(x = Race, fill = Arrest1)) + 
     geom_bar() +
     guides(color = FALSE)
@@ -94,7 +92,6 @@ output$Raceplot <- renderPlotly({
 # Age Plot
 output$plot <- renderPlotly({
   dat <- PInput()
-  # Height isn't a variable in this data.
     ggplot(data = dat, aes(x = Age)) + 
   geom_bar() +
   guides(color = FALSE)
