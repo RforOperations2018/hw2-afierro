@@ -99,13 +99,14 @@ server <- function(input, output, session = session) {
       
       url <- paste0("https://data.wprdc.org/api/action/datastore_search_sql?sql=SELECT%20*%20FROM%20%227e03a89dd-134a-4ee8-a2bd-62c40aeebc6f=%20%27", input$ageSelect[1], "%27%20AND%20%22CREATED_ON%22%20%3C=%20%27", input$ageSelect[2], "%27%20AND%20%22REQUEST_TYPE%22%20=%20%27")
       
-      arrests <- ckanSQL(url)
+      arrests <- ckanSQL(url) %>%
 # Age Slider Filter
       filter(Age >= input$ageSelect[1] & Age <= input$ageSelect[2])
       
 # Neighborhood Filter
     if (length(input$NeighborhoodSelect) > 0 ) {
-    arrests <- subset(arrests, Neighborhood %in% input$NeighborhoodSelect)
+      url <- paste0("https://data.wprdc.org/api/action/datastore_search_sql?sql=SELECT%20*%20FROM%20%227e03a89dd-134a-4ee8-a2bd-62c40aeebc6f=%20%27", input$ageSelect[1], "%27%20AND%20%22CREATED_ON%22%20%3C=%20%27", input$ageSelect[2], "%27%20AND%20%22REQUEST_TYPE%22%20=%20%27")
+      arrests <- ckanSQL(url)
   }
                               
     return(arrests)
