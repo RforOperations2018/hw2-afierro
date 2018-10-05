@@ -27,8 +27,20 @@ ckanUniques <- function(id, field) {
   c(ckanSQL(URLencode(url)))
 }
 
-races <- sort(ckanUniques("e03a89dd-134a-4ee8-a2bd-62c40aeebc6f", "INCIDENTNEIGHBORHOOD")$INCIDENTNEIGHBORHOOD)
-neighborhoods <- sort(ckanUniques("e03a89dd-134a-4ee8-a2bd-62c40aeebc6f", "RACE")$RACE)
+Race <- sort(ckanUniques("e03a89dd-134a-4ee8-a2bd-62c40aeebc6f", "INCIDENTNEIGHBORHOOD")$INCIDENTNEIGHBORHOOD)
+Neighborhood <- sort(ckanUniques("e03a89dd-134a-4ee8-a2bd-62c40aeebc6f", "RACE")$RACE)
+
+dat <- ckanSQL("https://data.wprdc.org/api/action/datastore_search_sql?sql=SELECT%20*%20FROM%20%22e03a89dd-134a-4ee8-a2bd-62c40aeebc6f%22%20WHERE%22OFFENSES%22%20LIKE%20%27%Public%20Drunk%%27") 
+df <- dat %>%
+  rename(ARREST = OFFENSES) %>%
+  rename(Neighborhood = INCIDENTNEIGHBORHOOD) %>%
+  rename(Race = RACE) %>%
+  rename(Age = AGE) %>%
+  mutate(Race = case_when(RACE == "B" ~ "Black",
+                          RACE == "W" ~ "White",
+                          RACE == "H" ~ "Hispanic",
+                          TRUE ~ "Other"))
+
 
 pdf(NULL)
 
@@ -41,15 +53,15 @@ ui <- navbarPage("Pittsburgh Arrests",
                               selectInput("NeighborhoodSelect",
                                           "Neighborhood:",
                                           # Missing close paren
-                                          choices = sort(unique(arrests.load$Neighborhood)),
+                                          choices = Neighborhood,
                                                          multiple = TRUE,
                                                          selectize = TRUE,
-                                                         selected = c("Central Business District", "Shadyside", "North Shore")),
+                                                         selected = "Central Business District"),
                               # Race select
                               selectInput("RaceSelect",
                                           "Race:",
                                           # Missing close paren
-                                          choices = sort(unique(arrests.load$Race)),
+                                          choices = Race,
                                           multiple = TRUE,
                                           selectize = TRUE,
                                           selected = "White"),
@@ -81,8 +93,14 @@ tabPanel("Table",
 
 # Define server logic
 server <- function(input, output, session = session) {
-# Filtered arrests data
+
+  
+  # Filtered arrests data
     PInput <- reactive({
+      
+      
+      
+      
       arrests <- arrests.load %>%
 # Age Slider Filter
       filter(Age >= input$ageSelect[1] & Age <= input$ageSelect[2])
