@@ -97,7 +97,7 @@ server <- function(input, output, session = session) {
   # Filtered arrests data
     PInput <- reactive({
       
-      url <- paste0("https://data.wprdc.org/api/action/datastore_search_sql?sql=SELECT%20*%20FROM%20%227e03a89dd-134a-4ee8-a2bd-62c40aeebc6f=%20%27", input$ageSelect[1], "%27%20AND%20%22CREATED_ON%22%20%3C=%20%27", input$ageSelect[2], "%27%20AND%20%22REQUEST_TYPE%22%20=%20%27")
+      url <- paste0("https://data.wprdc.org/api/action/datastore_search_sql?sql=SELECT%20*%20FROM%20%227e03a89dd-134a-4ee8-a2bd-62c40aeebc6f=%20%27%20WHERE%22OFFENSES%22%20LIKE%20%27%Public%20Drunk%%27", input$ageSelect[1], "%27%20AND%20%22CREATED_ON%22%20%3C=%20%27", input$ageSelect[2], "%27%20AND%20%22REQUEST_TYPE%22%20=%20%27")
       
       arrests <- ckanSQL(url) %>%
 # Age Slider Filter
@@ -105,7 +105,7 @@ server <- function(input, output, session = session) {
       
 # Neighborhood Filter
     if (length(input$NeighborhoodSelect) > 0 ) {
-      url <- paste0("https://data.wprdc.org/api/action/datastore_search_sql?sql=SELECT%20*%20FROM%20%227e03a89dd-134a-4ee8-a2bd-62c40aeebc6f=%20%27", input$ageSelect[1], "%27%20AND%20%22CREATED_ON%22%20%3C=%20%27", input$ageSelect[2], "%27%20AND%20%22REQUEST_TYPE%22%20=%20%27")
+      url <- paste0("https://data.wprdc.org/api/action/datastore_search_sql?sql=SELECT%20*%20FROM%20%227e03a89dd-134a-4ee8-a2bd-62c40aeebc6f=%20%27%20WHERE%22OFFENSES%22%20LIKE%20%27%Public%20Drunk%%27", input$ageSelect[1], "%27%20AND%20%22CREATED_ON%22%20%3C=%20%27", input$ageSelect[2], "%27%20AND%20%22REQUEST_TYPE%22%20=%20%27")
       arrests <- ckanSQL(url)
   }
                               
