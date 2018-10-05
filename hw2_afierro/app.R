@@ -60,7 +60,6 @@ ui <- navbarPage("Pittsburgh Arrests",
                               # Race select
                               selectInput("RaceSelect",
                                           "Race:",
-                                          # Missing close paren
                                           choices = Race,
                                           multiple = TRUE,
                                           selectize = TRUE,
@@ -68,9 +67,9 @@ ui <- navbarPage("Pittsburgh Arrests",
                               # Age Selection
                               sliderInput("ageSelect",
                                           "Age:",
-                                              min = min(arrests.load$Age, na.rm = T),
-                                              max = max(arrests.load$Age, na.rm = T),
-                                              value = c(min(arrests.load$Age, na.rm = T), max(arrests.load$Age, na.rm = T)),
+                                              min = min (Age, na.rm = T),
+                                              max = max(Age, na.rm = T),
+                                              value = c(min(Age, na.rm = T), max(Age, na.rm = T)),
                                               step = 1),
                               actionButton("reset", "Reset Filters", icon = icon("refresh"))
                                           ),
