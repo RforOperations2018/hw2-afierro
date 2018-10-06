@@ -31,7 +31,7 @@ Race <- sort(ckanUniques("e03a89dd-134a-4ee8-a2bd-62c40aeebc6f", "INCIDENTNEIGHB
 Neighborhood <- sort(ckanUniques("e03a89dd-134a-4ee8-a2bd-62c40aeebc6f", "RACE")$RACE)
 Age <- sort(ckanUniques("e03a89dd-134a-4ee8-a2bd-62c40aeebc6f", "AGE")$AGE)
 
-dat <- ckanSQL("https://data.wprdc.org/api/action/datastore_search_sql?sql=SELECT%20*%20FROM%20%22e03a89dd-134a-4ee8-a2bd-62c40aeebc6f%22%20WHERE%20%22CREATED_ON%22%20%3E=%20%27", input$dates[1], "%27%20AND%20%22CREATED_ON%22%20%3C=%20%27") 
+dat <- ckanSQL("https://data.wprdc.org/api/action/datastore_search_sql?sql=SELECT%20*%20FROM%20%2e03a89dd-134a-4ee8-a2bd-62c40aeebc6f%22%20WHERE%22OFFENSES%22%20LIKE%20%27%Public%20Drunk%%27") 
 df <- dat %>%
   rename(Arrest = OFFENSES) %>%
   rename(Neighborhood = INCIDENTNEIGHBORHOOD) %>%
