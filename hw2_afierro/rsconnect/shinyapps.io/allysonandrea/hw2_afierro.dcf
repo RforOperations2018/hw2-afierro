@@ -5,8 +5,8 @@ account: allysonandrea
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 454329
-bundleId: 1592578
+bundleId: 1626221
 url: https://allysonandrea.shinyapps.io/hw2_afierro/
-when: 1537307052.45922
+when: 1538793206.37032
 asMultiple: FALSE
 asStatic: FALSE
