@@ -124,8 +124,8 @@ output$plot <- renderPlotly({
 })
 # Data Table
 output$table <- DT::renderDataTable({
-  # This isn't tied to the reactive data
-  PInput()
+(data = df)
+  
 })
 # Updating the URL Bar
       observe({
